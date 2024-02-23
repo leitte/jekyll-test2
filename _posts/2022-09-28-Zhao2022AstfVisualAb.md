@@ -14,6 +14,7 @@ tags:
   - continuous process
   - multiple time-series
   - infrastructure
+  - pattern description
   - transformation-based visual mapping
   - glyph-based chart
   - single-view layout
