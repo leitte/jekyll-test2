@@ -5,6 +5,10 @@
   category: infrastructure
 - label: pattern description
   category: infrastructure
+- label: multi-scale representation
+- label: data structures
+- label: data preprocessing
+- label: provenance
 - label: direct visual mapping
   category: visual representation
 - label: bar chart
