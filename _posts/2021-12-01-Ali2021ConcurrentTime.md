@@ -10,7 +10,21 @@ date: 2021-12-01
 citation_count: 9
 categories:
   - infrastructure
+  - interaction
+  - integration of AI
 tags:
   - continuous process
   - infrastructure
+  - direct visual mapping
+  - line chart
+  - transformation-based visual mapping
+  - 2D projections
+  - multi-form layout
+  - direct temporal encoding
+  - interaction
+  - interactive system
+  - filtering
+  - interactive querying
+  - integration of AI
+  - dimensionality reduction
 ---
