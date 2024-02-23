@@ -10,6 +10,14 @@ date: 2023-06-01
 citation_count: 2
 categories:
   - infrastructure
+  - integration of AI
 tags:
+  - numeric attribute
+  - multi-variate attribute
   - infrastructure
+  - similarity measures
+  - interactive system
+  - integration of AI
+  - clustering
+  - dimensionality reduction
 ---
