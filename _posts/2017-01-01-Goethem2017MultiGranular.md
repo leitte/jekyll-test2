@@ -20,8 +20,6 @@ tags:
   - interactive system
   - interactive querying
   - integration of AI
-  - clustering
-  - cluster analysis
   - trend analysis
   - uncertainty in data
 ---

@@ -25,8 +25,6 @@ tags:
   - no temporal encoding
   - interactive system
   - integration of AI
-  - clustering
-  - cluster analysis
   - forecasting
   - trend analysis
 ---

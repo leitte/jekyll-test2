@@ -24,11 +24,6 @@ tags:
   - interactive system
   - interactive querying
   - integration of AI
-  - clustering
-  - anomaly detection
-  - trend analysis
-  - segmentation
-  - pattern detection
   - streaming data
 ---
 Event sequences and time series are widely recorded in many application domains; examples are stock market prices, electronic health records, server operation and performance logs. Common goals for recording are monitoring, root cause analysis and predictive analytics. Current analysis methods generally focus on the exploration of either event sequences or time series. However, deeper insights are gained by combining both. We present a visual analytics approach where users can explore both time series and event data simultaneously, combining visualization, automated methods and human interaction. We enable users to iteratively refine the visualization. Correlations between event sequences and time series can be found by means of an interactive algorithm, which also computes the presence of monotonic effects. We illustrate the effectiveness of our method by applying it to real world and synthetic data sets.

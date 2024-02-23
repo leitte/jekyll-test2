@@ -23,7 +23,6 @@ tags:
   - no temporal encoding
   - interactive system
   - integration of AI
-  - clustering
   - anomaly detection
   - pattern detection
 ---

@@ -24,7 +24,6 @@ tags:
   - multi-view layout
   - direct temporal encoding
   - interactive querying
-  - clustering
   - anomaly detection
   - forecasting
   - trend analysis

@@ -25,7 +25,6 @@ tags:
   - indirect temporal encoding
   - interactive system
   - integration of AI
-  - clustering
   - trend analysis
   - segmentation
   - pattern detection
