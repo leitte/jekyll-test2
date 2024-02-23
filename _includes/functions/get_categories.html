@@ -1,11 +1,29 @@
 {% assign split_mark = '<|>' %}
 
+{% comment %}
+  The following code reads the categories from the actual posts.
+{% endcomment %}
 {% assign categories = '' %}
 {% for category in site.categories %}
   {% assign name = category | first %}
   {% assign categories = categories | append: split_mark  | append: name %}
 {% endfor %}
 
+{% comment %}
+  The following code reads the categories from the file categories.yml in _data.
+{% endcomment %}
+{% assign categories = '' %}
+{% for category in site.data.categories %}
+  {% assign name = category.label %}
+  {% assign categories = categories | append: split_mark  | append: name %}
+{% endfor %}
+
 {% assign return = categories
   | remove_first: split_mark
   | split: split_mark %}
+
+{% comment %}
+  | sort: self 
+{% endcomment %}
+
+

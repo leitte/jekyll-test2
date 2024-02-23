@@ -6,6 +6,12 @@
   {% assign tags = tags | append: split_mark  | append: name %}
 {% endfor %}
 
+{% assign tags = '' %}
+{% for tag in site.data.tags %}
+  {% assign name = tag.label %}
+  {% assign tags = tags | append: split_mark  | append: name %}
+{% endfor %}
+
 {% assign return = tags
   | remove_first: split_mark
   | split: split_mark %}
