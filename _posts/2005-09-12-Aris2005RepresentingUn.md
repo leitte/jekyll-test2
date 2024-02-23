@@ -10,7 +10,11 @@ date: 2005-09-12
 citation_count: 66
 categories:
   - theory
+  - infrastructure
 tags:
   - theory
   - continuous process
+  - infrastructure
+  - time-series representation
+  - data preprocessing
 ---

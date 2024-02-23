@@ -10,7 +10,10 @@ date: 2015-10-01
 citation_count: 1308
 categories:
   - survey
+  - integration of AI
 tags:
   - survey
   - continuous process
+  - integration of AI
+  - clustering
 ---

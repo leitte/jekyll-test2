@@ -10,7 +10,11 @@ date: 2011-02-01
 citation_count: 1380
 categories:
   - survey
+  - infrastructure
 tags:
   - survey
   - continuous process
+  - infrastructure
+  - similarity measures
+  - pattern description
 ---
