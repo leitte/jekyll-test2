@@ -14,6 +14,7 @@ tags:
   - continuous process
   - single time-series
   - infrastructure
+  - data bases for time-series
   - direct visual mapping
   - pixel-based chart
   - multi-view layout

@@ -15,6 +15,7 @@ tags:
   - numeric attribute
   - all time-series
   - infrastructure
+  - multi-scale representation
   - direct visual mapping
   - pixel-based chart
   - multi-view layout

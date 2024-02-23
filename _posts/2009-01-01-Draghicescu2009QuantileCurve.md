@@ -16,7 +16,7 @@ tags:
   - numeric attribute
   - all time-series
   - infrastructure
-  - data preprocessing
+  - data structures
   - visual representation
   - direct visual mapping
   - line chart

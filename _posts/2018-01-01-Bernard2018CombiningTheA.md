@@ -12,7 +12,7 @@ categories:
   - infrastructure
 tags:
   - continuous process
-  - multiple time-series
+  - all time-series
   - infrastructure
   - direct visual mapping
   - pixel-based chart

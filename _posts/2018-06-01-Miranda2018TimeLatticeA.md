@@ -12,8 +12,9 @@ categories:
   - infrastructure
 tags:
   - continuous process
-  - multiple time-series
+  - all time-series
   - infrastructure
+  - data structures
   - direct visual mapping
   - line chart
   - multi-view layout

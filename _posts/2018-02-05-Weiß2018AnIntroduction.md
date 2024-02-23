@@ -11,5 +11,7 @@ citation_count: 257
 categories:
   - infrastructure
 tags:
+  - single time-series
+  - all time-series
   - infrastructure
 ---

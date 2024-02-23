@@ -15,6 +15,7 @@ tags:
   - numeric attribute
   - single time-series
   - infrastructure
+  - data preprocessing
   - direct visual mapping
   - line chart
   - single-view layout

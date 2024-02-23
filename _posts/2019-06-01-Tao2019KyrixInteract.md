@@ -13,7 +13,9 @@ categories:
   - interaction
   - technical challenges
 tags:
+  - all time-series
   - infrastructure
+  - data structures
   - interaction
   - interactive system
   - interactive navigation

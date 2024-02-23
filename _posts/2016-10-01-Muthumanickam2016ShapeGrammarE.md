@@ -15,6 +15,7 @@ tags:
   - continuous process
   - single time-series
   - infrastructure
+  - pattern description
   - direct visual mapping
   - line chart
   - multi-view layout
