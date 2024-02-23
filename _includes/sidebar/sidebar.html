@@ -1,0 +1,13 @@
+<h2>Data</h2>
+{% include sidebar/data-list.html %}
+
+<h2>Categories</h2>
+{% include sidebar/category-list.html %}
+
+<h2>Tags</h2>
+<div style="overflow-y: scroll; height:600px;">
+    {% include sidebar/tag-list.html %}
+</div>
+
+<script src="{{ "/assets/js/filtering.js" | relative_url }}">
+</script>

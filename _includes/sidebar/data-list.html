@@ -1,0 +1,8 @@
+{%- include functions.html func='get_datadescription' -%}
+{% assign categories = return %}
+
+{% assign keys = categories %}
+{% assign field = 'tags' %}
+{% assign type = 'tag' %}
+{% assign url = '/categories.html' | relative_url %}
+{% include sidebar/common-list.html %}
