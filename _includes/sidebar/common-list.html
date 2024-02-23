@@ -9,17 +9,18 @@
 <div class="common-list">
   <ul>
     <li>
+      <div style="display: flex;">
+      <span class="list-toggle expand"><i class="fa fa-angle-right"></i></span>
       <a href="{{ '/index.html' | relative_url }}">
-        All<span>{{ site.posts.size }}</span>
-      </a>
+         All<span class="list-counter">{{ site.posts.size }}</span>
+      </a></div>
     </li>
 
     {% for key in  keys %}
       <li>
-        <a href="{{ url }}#h-{{ key }}">
-          {{ key }} <span>{{ site.posts | where: field, key | size }}</span>
-        </a>
+        <button class="button {{ type }}" id="{{- key | remove: ' ' -}}" data-label="{{ key }}">{{ key }} <span class="list-counter"><var class="{{- type -}}-cnt" id="{{- key | remove:' ' -}}_cnt">{{ site.posts | where: field, key | size }}</var>/{{ site.posts | where: field, key | size }}</span></button>
       </li>
     {% endfor %}
   </ul>
 </div>
+
