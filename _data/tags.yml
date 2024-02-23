@@ -1,0 +1,36 @@
+- label: needs checking
+- label: time-series representation
+  category: infrastructure
+- label: similarity measures
+  category: infrastructure
+- label: pattern description
+  category: infrastructure
+- label: direct visual mapping
+  category: visual representation
+- label: bar chart
+- label: line chart
+- label: pixel-based chart
+- label: polar coordinates
+- label: calendar chart
+- label: flow diagram
+  category: visual representation
+- label: transformation-based visual mapping
+  category: visual representation
+- label: single-view layout
+  category: visual representation
+- label: multi-view layout
+  category: visual representation
+- label: multi-form layout
+  category: visual representation
+- label: explicit temporal encoding
+- label: implicit temporal encoding
+- label: interactive navigation
+- label: interactive querying
+- label: clustering
+- label: anomaly detection
+- label: forecasting
+- label: model building
+- label: streaming data
+- label: multi-variate attribute
+- label: performance
+- label: irregular and missing data
