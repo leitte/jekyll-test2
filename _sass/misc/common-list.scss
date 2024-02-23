@@ -1,45 +1,86 @@
 /**
  * Common list
  */
-.common-list {
-  @include relative-font-size(1.0);
-  min-width: 200px;
-
-  ul {
-    list-style: none;
-    margin: 0;
-  }
-
-  li {
-    border-bottom: solid 1px #00000018;
-
-    &:last-child {
-      border-bottom: none;
+ .common-list {
+    @include relative-font-size(1.0);
+    min-width: 200px;
+  
+    ul {
+      list-style: none;
+      margin: 0;
     }
+  
+    li {
+      border-bottom: solid 1px #00000018;
+  
+      &:last-child {
+        border-bottom: none;
+      }
+  
+      a {
+        display: flex;
+        flex-grow: 2;
+        justify-content: space-between;
+        padding: 8px 12px;
+        text-decoration: none;
+        font-weight: normal;
+        color: $text-color;
+        transition: background 0.2s;
+  
+        &:hover {
+          background-color: mix($theme-color, #eaeaea, 20%);
+        }
+      }
+  
+      span {
+        display: inline-block;
+        align-self: center;
+        padding: 0px 8px;
+        
+        &.list-toggle {
+          background: transparent;
+          padding: 8px 12px 8px 12px;
+          cursor: pointer; 
 
-    a {
-      display: flex;
-      justify-content: space-between;
-      padding: 8px 12px;
-      text-decoration: none;
-      font-weight: normal;
-      color: $text-color;
-      transition: background 0.2s;
+          &.expand {
+            transform: rotate(90deg);
+          }
 
-      &:hover {
-        background-color: mix($theme-color, #eaeaea, 20%);
+          & + a {
+            padding: 8px 12px 8px 6px;
+          }
+        }
+
+        &.list-counter {
+          @include relative-font-size(0.8);
+          background: #000000bd;
+          color: $white-color;
+          margin-left: 20px;
+          border-radius: 10px;
+        }
+      }
+
+        /**
+        *
+        */
+      button.button {
+        border: none;
+        background-color: white;
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        font-size: #{$base-font-size};
+        padding: 8px 12px;
+        line-height: 1.6;
+        cursor: pointer;
+
+        &.empty span {
+          background: $grey-color-light;
+        }
+
+        &.active span {
+          background: $brand-color;
+        }
       }
     }
-
-    span {
-      @include relative-font-size(0.8);
-      display: inline-block;
-      border-radius: 10px;
-      align-self: center;
-      background: #000000bd;
-      padding: 0px 8px;
-      margin-left: 20px;
-      color: $white-color;
-    }
   }
-}
