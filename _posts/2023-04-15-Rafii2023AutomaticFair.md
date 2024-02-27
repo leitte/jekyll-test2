@@ -19,6 +19,7 @@ tags:
   - all time-series
   - infrastructure
   - provenance
+  - 2D chart
   - evaluation
   - benchmarking
 ---

@@ -10,5 +10,6 @@ date: 2007-11-01
 citation_count: 852
 categories:
 tags:
+  - 2D chart
 ---
 We describe the design and deployment of Many Eyes, a public Web site where users may upload data, create interactive visualizations, and carry on discussions. The goal of the site is to support collaboration around visualizations at a large scale by fostering a social style of data analysis in which visualizations not only serve as a discovery tool for individuals but also as a medium to spur discussion among users. To support this goal, the site includes novel mechanisms for end-user creation of visualizations and asynchronous collaboration around those visualizations. In addition to describing these technologies, we provide a preliminary report on the activity of our users.

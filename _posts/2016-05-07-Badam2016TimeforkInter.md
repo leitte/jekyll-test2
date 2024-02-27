@@ -13,13 +13,15 @@ categories:
 tags:
   - continuous process
   - multiple time-series
+  - chart type
   - direct visual mapping
   - line chart
+  - stacked area chart
   - horizon graph
   - flow diagram
-  - stacked area chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
   - integration of AI
   - forecasting

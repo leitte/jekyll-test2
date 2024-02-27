@@ -16,10 +16,12 @@ tags:
   - numeric attribute
   - all time-series
   - visual representation
+  - chart type
   - flow diagram
   - stream graph
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - trend analysis
   - technical challenges
   - visual complexity

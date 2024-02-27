@@ -17,4 +17,5 @@ tags:
   - infrastructure
   - time-series representation
   - data preprocessing
+  - 2D chart
 ---

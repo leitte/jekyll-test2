@@ -13,17 +13,18 @@ categories:
 tags:
   - continuous process
   - all time-series
+  - chart type
   - direct visual mapping
   - line chart
   - transformation-based visual mapping
-  - 2D projections
+  - scatter plot
   - single-view layout
   - multi-view layout
   - no temporal encoding
+  - 2D chart
   - interactive system
   - interactive querying
   - integration of AI
-  - clustering
-  - cluster analysis
+  - dimensionality reduction
 ---
 Time series analysis poses many challenges to professionals in a wide range of domains. Several visualization solutions have been proposed for exploratory tasks on time series collections. For large data sets, however, current techniques fail to provide a global view that supports a good association between groups of similar time series. We employ fast multidimensional projection techniques to create concise visual representations of a collection of time series. The whole collection can be viewed in a two-dimensional graph-based representation that provides a starting point for further exploration and detailed analysis. The projections employ distance metrics to compare the series and generate a layout that attempts to group those with similar behavior. We illustrate the approach on a real data set containing streamflows describing the behavior of hydroelectric power plants in Brazil.

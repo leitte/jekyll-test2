@@ -14,4 +14,5 @@ tags:
   - survey
   - continuous process
   - event-based process
+  - 2D chart
 ---

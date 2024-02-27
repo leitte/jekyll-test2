@@ -18,12 +18,14 @@ tags:
   - all time-series
   - infrastructure
   - data bases for time-series
+  - chart type
   - direct visual mapping
   - line chart
   - multi-view layout
+  - 2D chart
   - interaction
   - interactive system
-  - filtering
+  - interactive filtering
   - interactive querying
   - forecasting
   - technical challenges

@@ -8,6 +8,13 @@
     ul {
       list-style: none;
       margin: 0;
+
+      &.ul-tag {
+        margin-left: 0px; 
+        list-style: none inside; 
+        padding: 0px 0px 0px 10px; 
+        border-left: 1px solid #00000018;
+      }
     }
   
     li {
@@ -73,6 +80,11 @@
         padding: 8px 12px;
         line-height: 1.6;
         cursor: pointer;
+
+        &.slim {
+          padding: 2px 12px 2px 0px;
+          line-height: 1.6;
+        }
 
         &.empty span {
           background: $grey-color-light;

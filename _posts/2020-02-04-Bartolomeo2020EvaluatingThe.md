@@ -14,10 +14,12 @@ tags:
   - event-based process
   - numeric attribute
   - all time-series
+  - chart type
   - flow diagram
   - Sankey diagram
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - evaluation
   - pattern detection
 ---

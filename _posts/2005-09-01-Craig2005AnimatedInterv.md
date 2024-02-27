@@ -9,20 +9,22 @@ doi: 10.1057/palgrave.ivs.9500101
 date: 2005-09-01
 citation_count: 23
 categories:
-  - integration of AI
+  - interaction
 tags:
   - continuous process
   - multi-variate attribute
   - all time-series
+  - chart type
   - direct visual mapping
   - line chart
   - transformation-based visual mapping
-  - 2D projections
+  - scatter plot
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
   - no temporal encoding
+  - 2D chart
+  - interaction
   - interactive system
-  - integration of AI
-  - clustering
+  - interactive querying
   - pattern detection
 ---

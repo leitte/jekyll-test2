@@ -13,4 +13,5 @@ tags:
   - continuous process
   - event-based process
   - multi-variate attribute
+  - 2D chart
 ---

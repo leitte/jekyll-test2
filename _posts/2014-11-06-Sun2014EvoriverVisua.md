@@ -15,12 +15,13 @@ tags:
   - event-based process
   - all time-series
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
   - highlighting
   - integration of AI
-  - trend analysis
   - classification
   - pattern detection
+  - trend analysis
 ---
 Cooperation and competition (jointly called “coopetition”) are two modes of interactions among a set of concurrent topics on social media. How do topics cooperate or compete with each other to gain public attention? Which topics tend to cooperate or compete with one another? Who plays the key role in coopetition-related interactions? We answer these intricate questions by proposing a visual analytics system that facilitates the in-depth analysis of topic coopetition on social media. We model the complex interactions among topics as a combination of carry-over, coopetition recruitment, and coopetition distraction effects. This model provides a close functional approximation of the coopetition process by depicting how different groups of influential users (i.e., “topic leaders”) affect coopetition. We also design EvoRiver, a time-based visualization, that allows users to explore coopetition-related interactions and to detect dynamically evolving patterns, as well as their major causes. We test our model and demonstrate the usefulness of our system based on two Twitter data sets (social topics data and business topics data).

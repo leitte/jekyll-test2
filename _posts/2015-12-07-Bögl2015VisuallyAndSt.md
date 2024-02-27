@@ -16,10 +16,12 @@ tags:
   - single time-series
   - infrastructure
   - data preprocessing
+  - chart type
   - direct visual mapping
   - line chart
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
   - forecasting
   - trend analysis

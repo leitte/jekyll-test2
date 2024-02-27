@@ -9,20 +9,18 @@ doi: 10.1057/palgrave.ivs.9500089
 date: 2005-04-07
 citation_count: 141
 categories:
-  - interaction
-  - integration of AI
 tags:
   - continuous process
   - single time-series
+  - chart type
   - direct visual mapping
   - line chart
   - single-view layout
   - multi-view layout
   - no temporal encoding
-  - interaction
+  - 2D chart
   - interactive system
   - interactive querying
-  - integration of AI
   - clustering
   - cluster analysis
   - pattern detection

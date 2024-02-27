@@ -15,13 +15,15 @@ tags:
   - numeric attribute
   - multiple time-series
   - all time-series
+  - chart type
   - direct visual mapping
   - line chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interaction
   - interactive system
-  - filtering
+  - interactive filtering
   - interactive querying
 ---
 Identification of patterns in time series data sets is a task that arises in a wide variety of application domains [4]. This paper presents a user interface for the timebox query model of rectangular regions that specify constraints over time series data sets. A prototype application based on timeboxes is presented. Collaborations with potential users will guide the design of enhanced functionality. Usability tests and controlled experiments will be conducted to evaluate the timebox query model.

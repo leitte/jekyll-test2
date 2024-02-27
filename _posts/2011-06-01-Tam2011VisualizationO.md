@@ -18,12 +18,14 @@ tags:
   - multiple time-series
   - all time-series
   - infrastructure
-  - pattern description
+  - time-series representation
   - visual representation
+  - chart type
   - transformation-based visual mapping
   - parallel coordinates
   - multi-form layout
   - no temporal encoding
+  - 2D chart
   - integration of AI
   - classification
 ---

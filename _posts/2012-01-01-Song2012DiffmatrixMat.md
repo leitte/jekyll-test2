@@ -15,13 +15,15 @@ tags:
   - numeric attribute
   - multiple time-series
   - visual representation
+  - chart type
   - direct visual mapping
   - line chart
-  - pixel-based chart
+  - color field
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
-  - filtering
+  - interactive filtering
   - pattern detection
 ---
 Line graphs have been commonly used for visualizing temporal trends in time series data. Since comparing trends is one of the main tasks for analyzing multiple temporal trends, many efforts have been made to enhance visual representations of line graphs to help people efficiently compare multiple temporal trends. However, as the number of line graphs increases, the overlap makes it difficult to perform comparison and other analyses. In this paper, we introduce DiffMatrix, a matrix-based interactive visualization designed to support effective analyses of a large number of time series data. It employs four visual representations for each cell in the matrix to show the difference between two time series—dual lines, diff line, diff area, diff heatmap—and a detail view to support more indepth analyses on individual line graphs. DiffMatrix allows users to seamlessly switch between these representations that best support their tasks. We also report possible future work we identified through case studies with three real-world time series datasets with a large number of series.

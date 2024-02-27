@@ -15,12 +15,14 @@ tags:
   - numeric attribute
   - multiple time-series
   - visual representation
+  - chart type
   - direct visual mapping
-  - pixel-based chart
+  - color field
   - flow diagram
   - stream graph
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
   - trend analysis
 ---

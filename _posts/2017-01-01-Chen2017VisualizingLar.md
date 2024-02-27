@@ -13,14 +13,16 @@ categories:
 tags:
   - continuous process
   - single time-series
+  - chart type
   - direct visual mapping
   - bar chart
-  - pixel-based chart
+  - color field
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
-  - trend analysis
   - pattern detection
+  - trend analysis
   - technical challenges
   - streaming data
 ---

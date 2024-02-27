@@ -9,20 +9,25 @@ doi: 10.1109/TVCG.2013.2297933
 date: 2014-01-01
 citation_count: 2
 categories:
+  - infrastructure
   - technical challenges
 tags:
   - continuous process
   - single time-series
   - multiple time-series
   - all time-series
+  - infrastructure
+  - multi-scale abstraction
+  - chart type
   - direct visual mapping
   - bar chart
-  - pixel-based chart
+  - color field
   - single-view layout
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
-  - filtering
+  - interactive filtering
   - interactive querying
   - clustering
   - trend analysis

@@ -13,16 +13,18 @@ categories:
 tags:
   - continuous process
   - all time-series
+  - chart type
   - direct visual mapping
   - line chart
-  - pixel-based chart
+  - color field
   - transformation-based visual mapping
-  - 2D projections
+  - scatter plot
   - glyph-based chart
   - multi-view layout
-  - direct temporal encoding
-  - indirect temporal encoding
+  - explicit temporal encoding
+  - implicit temporal encoding
   - no temporal encoding
+  - 2D chart
   - interactive system
   - integration of AI
   - forecasting

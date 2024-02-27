@@ -11,8 +11,10 @@ citation_count: 14
 categories:
 tags:
   - continuous process
+  - chart type
   - direct visual mapping
-  - polar coordinates
+  - circular chart
+  - 2D chart
   - interactive querying
   - clustering
   - pattern detection

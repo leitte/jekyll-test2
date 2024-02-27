@@ -5,10 +5,12 @@
       label: time-series representation
     - id: SimilarityMeasure
       label: similarity measure
-    - id: MultiScaleAbstraction
-      label: multi-scale abstraction
     - id: DataStructure
       label: data structure
+    - id: MultiScaleAbstraction
+      label: multi-scale abstraction
+    - id: DatePreprocessing
+      label: data preprocessing
     - id: Provenance
       label: provenance
 - id: VisualRepresentation
@@ -17,6 +19,8 @@
     - id: ChartType
       label: chart type
       children: 
+        - id: BarChart
+          label: bar chart
         - id: LineChart
           label: line chart
         - id: StackedAreaChart
@@ -33,17 +37,19 @@
           label: flow diagram
         - id: ScatterPlot
           label: scatter plot
+        - id: ParallelCoordinates
+          label: parallel coordinates
         - id: Spectrum
           label: spectrum
         - id: MultiScaleRepresentation
-          label: multi-scale chart
+          label: multi-scale representation
         - id: OtherChartType
           label: other chart type
     - id: VisualLayout
       label: visual layout
       children:
         - id: SingleViewLayout
-          label: single view layout
+          label: single-view layout
         - id: MultiViewLayout
           label: multi-view layout
         - id: MultiFormLayout
@@ -57,13 +63,20 @@
           label: implicit temporal encoding
         - id: NoTemporalEncoding
           label: no temporal encoding
+    - id: Dimensionality
+      label: dimensionality
+      children:
+        - id: 2DChart
+          label: 2D chart
+        - id: 3DChart
+          label: 3D chart
 - id: Evaluation
   label: evaluation
   children:
     - id: EvaluationOfVisualPerception
       label: evaluation of visual perception
-    - id: EvaluationOfInteraction
-      label: evaluation of interaction
+    - id: EvaluationOfInteractionDesign
+      label: evaluation of interaction design
     - id: EvaluationOfUserCentricAspects
       label: evaluation of user-centric aspects
     - id: Benchmarking
@@ -75,6 +88,8 @@
       label: interactive system
     - id: InteractiveNavigation
       label: interactive navigation
+    - id: InteractiveFiltering
+      label: interactive filtering
     - id: InteractiveQuerying
       label: interactive querying
 - id: IntegrationOfAI

@@ -13,6 +13,7 @@ categories:
   - interaction
 tags:
   - theory
+  - 2D chart
   - interaction
   - interactive system
   - interactive navigation

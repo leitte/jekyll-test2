@@ -18,13 +18,15 @@ tags:
   - multiple time-series
   - all time-series
   - infrastructure
-  - multi-scale representation
+  - multi-scale abstraction
   - visual representation
+  - chart type
   - direct visual mapping
   - line chart
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
   - no temporal encoding
+  - 2D chart
   - interaction
   - interactive system
   - interactive navigation

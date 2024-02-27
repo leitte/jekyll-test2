@@ -15,7 +15,8 @@ tags:
   - event-based process
   - all time-series
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
   - integration of AI
   - clustering

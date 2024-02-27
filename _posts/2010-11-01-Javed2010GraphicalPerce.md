@@ -17,10 +17,12 @@ tags:
   - numeric attribute
   - all time-series
   - visual representation
+  - chart type
   - direct visual mapping
   - line chart
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - evaluation
   - technical challenges
   - visual complexity

@@ -13,4 +13,5 @@ categories:
 tags:
   - theory
   - continuous process
+  - 2D chart
 ---

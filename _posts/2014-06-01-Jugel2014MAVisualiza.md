@@ -11,16 +11,18 @@ citation_count: 89
 categories:
 tags:
   - single time-series
+  - chart type
   - direct visual mapping
   - line chart
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive querying
   - clustering
+  - classification
+  - segmentation
   - anomaly detection
   - forecasting
-  - segmentation
-  - classification
 ---
 Visual analysis of high-volume time series data is ubiquitous in many industries, including finance, banking, and discrete manufacturing. Contemporary, RDBMS-based systems for visualization of high-volume time series data have difficulty to cope with the hard latency requirements and high ingestion rates of interactive visualizations. Existing solutions for lowering the volume of time series data disregard the semantics of visualizations and result in visualization errors. 
  

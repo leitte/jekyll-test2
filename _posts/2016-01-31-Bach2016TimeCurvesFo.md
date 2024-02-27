@@ -14,11 +14,13 @@ tags:
   - continuous process
   - all time-series
   - visual representation
+  - chart type
   - transformation-based visual mapping
-  - 2D projections
+  - scatter plot
   - glyph-based chart
   - single-view layout
-  - indirect temporal encoding
+  - implicit temporal encoding
+  - 2D chart
   - interactive system
   - clustering
   - cluster analysis

@@ -14,12 +14,14 @@ tags:
   - event-based process
   - multiple time-series
   - all time-series
+  - chart type
   - direct visual mapping
-  - polar coordinates
+  - circular chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - highlighting
-  - trend analysis
   - classification
+  - trend analysis
 ---
 This poster abstract presents a new word cloud technique, the Fisheye Word Cloud, for exploring time-series data in a focused+context approach to analyzing word data. Our design has two features: cursor-centric layout and word cloud generation on demand. We conducted a validation study to evaluate how our Fisheye Word Cloud influences user performance in comparison tasks of time-series data. Based on task completion time and a TLX-based Likert-style questionnaire, we found the Fisheye Word Cloud has faster task completion time and a better user satisfaction level than the alternative we reviewed.

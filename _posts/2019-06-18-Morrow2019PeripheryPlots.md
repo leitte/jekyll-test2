@@ -14,11 +14,13 @@ tags:
   - continuous process
   - multiple time-series
   - visual representation
+  - chart type
   - direct visual mapping
   - bar chart
   - line chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
   - pattern detection
 ---

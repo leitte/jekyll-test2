@@ -15,13 +15,14 @@ tags:
   - multi-variate attribute
   - all time-series
   - visual representation
+  - chart type
   - transformation-based visual mapping
   - glyph-based chart
   - multi-form layout
-  - direct temporal encoding
+  - explicit temporal encoding
   - no temporal encoding
-  - 3D representation
-  - filtering
+  - 3D chart
+  - interactive filtering
   - clustering
   - cluster analysis
   - trend analysis

@@ -15,7 +15,8 @@ categories:
 tags:
   - all time-series
   - infrastructure
-  - data structures
+  - data structure
+  - 2D chart
   - interaction
   - interactive system
   - interactive navigation

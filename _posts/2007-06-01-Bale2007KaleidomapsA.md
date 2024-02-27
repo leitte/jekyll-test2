@@ -15,9 +15,11 @@ tags:
   - multi-variate attribute
   - single time-series
   - visual representation
+  - chart type
   - direct visual mapping
-  - pixel-based chart
-  - polar coordinates
+  - color field
+  - circular chart
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
 ---

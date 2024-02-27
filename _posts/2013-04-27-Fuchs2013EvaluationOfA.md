@@ -12,6 +12,7 @@ categories:
   - evaluation
 tags:
   - continuous process
+  - 2D chart
   - evaluation
   - highlighting
 ---

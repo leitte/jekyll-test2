@@ -15,13 +15,15 @@ tags:
   - numeric attribute
   - multiple time-series
   - all time-series
+  - chart type
   - direct visual mapping
   - line chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interaction
   - interactive system
-  - filtering
+  - interactive filtering
   - interactive querying
 ---
 Sequential data is easily understood through a simple line graph, yet systems to search such data typically rely on complex interfaces or query languages. This paper presents QuerySketch, a financial database application in which graphs are used for query input as well as output. QuerySketch allows users to sketch a graph freehand, then view stocks whose price histories match the sketch. Using the same graphical format for both input and output results in an interface that is powerful, flexible, yet easy to use.

@@ -17,13 +17,15 @@ tags:
   - numeric attribute
   - all time-series
   - infrastructure
-  - pattern description
+  - time-series representation
   - visual representation
+  - chart type
   - direct visual mapping
   - transformation-based visual mapping
   - glyph-based chart
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - integration of AI
   - segmentation
   - pattern detection

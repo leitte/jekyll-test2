@@ -13,18 +13,20 @@ categories:
 tags:
   - continuous process
   - all time-series
+  - chart type
   - direct visual mapping
   - line chart
   - horizon graph
-  - pixel-based chart
-  - polar coordinates
+  - color field
+  - circular chart
   - flow diagram
   - stream graph
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interaction
   - interactive system
   - interactive navigation
-  - filtering
+  - interactive filtering
 ---
 We present novel direct-touch centered paradigms for exploring time series data visualized in a coordinated multi-view display. The views can be easily and flexibly configured by choosing from various adapted or enhanced time-oriented visualizations. A vocabulary of robust direct-touch gestures enables the user to create, filter, derive, and focus on subsets of time-oriented data within the temporal dimension as well as the (data) records dimension. Our two-dimensional Focus&Context technique works particularly well with our extension to horizon graphs, which enables interactive scaling from area charts to multiply folded Horizon Graphs down to pixel-based visualizations and back.

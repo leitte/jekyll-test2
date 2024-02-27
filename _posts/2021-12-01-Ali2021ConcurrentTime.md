@@ -15,15 +15,17 @@ categories:
 tags:
   - continuous process
   - infrastructure
+  - chart type
   - direct visual mapping
   - line chart
   - transformation-based visual mapping
-  - 2D projections
+  - scatter plot
   - multi-form layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interaction
   - interactive system
-  - filtering
+  - interactive filtering
   - interactive querying
   - integration of AI
   - dimensionality reduction

@@ -14,8 +14,10 @@ categories:
 tags:
   - survey
   - continuous process
+  - chart type
   - direct visual mapping
-  - pixel-based chart
+  - color field
+  - 2D chart
   - integration of AI
   - model building
 ---

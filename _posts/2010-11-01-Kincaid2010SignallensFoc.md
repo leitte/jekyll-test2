@@ -15,15 +15,17 @@ tags:
   - continuous process
   - single time-series
   - visual representation
+  - chart type
   - direct visual mapping
   - bar chart
   - line chart
   - multi-form layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interaction
   - interactive system
   - interactive navigation
-  - filtering
+  - interactive filtering
   - interactive querying
   - pattern detection
 ---

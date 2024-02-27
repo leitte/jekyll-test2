@@ -13,13 +13,15 @@ categories:
 tags:
   - continuous process
   - all time-series
+  - chart type
   - direct visual mapping
   - line chart
   - single-view layout
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interaction
   - interactive system
-  - filtering
+  - interactive filtering
   - interactive querying
 ---

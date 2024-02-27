@@ -15,12 +15,14 @@ tags:
   - numeric attribute
   - single time-series
   - infrastructure
-  - pattern description
-  - multi-scale representation
+  - time-series representation
+  - multi-scale abstraction
+  - chart type
   - direct visual mapping
   - line chart
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - clustering
   - visual complexity
 ---

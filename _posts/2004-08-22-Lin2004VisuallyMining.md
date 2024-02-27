@@ -9,15 +9,19 @@ doi: 10.1145/1014052.1014104
 date: 2004-08-22
 citation_count: 189
 categories:
+  - interaction
   - integration of AI
 tags:
   - continuous process
   - single time-series
+  - chart type
   - direct visual mapping
   - line chart
   - single-view layout
   - multi-view layout
   - no temporal encoding
+  - 2D chart
+  - interaction
   - interactive system
   - interactive querying
   - integration of AI

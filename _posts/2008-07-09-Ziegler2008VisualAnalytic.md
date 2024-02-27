@@ -15,11 +15,13 @@ tags:
   - numeric attribute
   - single time-series
   - visual representation
+  - chart type
   - direct visual mapping
   - line chart
-  - pixel-based chart
+  - color field
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
   - highlighting
 ---

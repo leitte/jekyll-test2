@@ -13,7 +13,9 @@ categories:
   - interaction
 tags:
   - infrastructure
-  - similarity measures
+  - similarity measure
+  - chart type
+  - 2D chart
   - interaction
   - interactive system
   - interactive querying

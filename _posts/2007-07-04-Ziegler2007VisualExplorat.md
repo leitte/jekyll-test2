@@ -16,11 +16,13 @@ tags:
   - numeric attribute
   - single time-series
   - infrastructure
-  - pattern description
+  - time-series representation
   - visual representation
+  - chart type
   - direct visual mapping
-  - pixel-based chart
+  - color field
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
 ---
 This work describes two pixel-based paradigms for visual financial time series data analysis that allow analyzing assets in overview and in detail, and offer improved insights into the characteristics of assets compared to traditional visualization methods. We contribute a two-dimensional color coding scheme for inter-Zintra-asset analysis that extends the two paradigms and supports the discovery of significant characteristics of assets, such as atypical " against-the-market" -behavior inform of exceptional stability in case of whole market losses, or the discovery of assets in a portfolio that - while still being profitable - notably underperform the market median. We apply our techniques on real world data sets, and focus on assets of the banks of Switzerland.

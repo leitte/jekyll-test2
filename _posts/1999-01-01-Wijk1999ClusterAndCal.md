@@ -18,11 +18,13 @@ tags:
   - multiple time-series
   - all time-series
   - visual representation
+  - chart type
   - direct visual mapping
   - line chart
   - calendar chart
   - multi-form layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interaction
   - interactive system
   - integration of AI

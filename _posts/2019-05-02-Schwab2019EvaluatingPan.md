@@ -12,6 +12,7 @@ categories:
   - evaluation
   - interaction
 tags:
+  - 2D chart
   - evaluation
   - interaction
   - interactive system

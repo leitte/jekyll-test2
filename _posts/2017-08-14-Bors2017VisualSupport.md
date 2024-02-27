@@ -13,22 +13,16 @@ categories:
 tags:
   - continuous process
   - single time-series
+  - chart type
   - direct visual mapping
   - line chart
-  - pixel-based chart
+  - color field
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
   - highlighting
-  - filtering
-  - clustering
-  - cluster analysis
-  - anomaly detection
-  - forecasting
-  - trend analysis
-  - segmentation
-  - classification
-  - pattern detection
+  - interactive filtering
   - technical challenges
   - uncertainty in data
 ---

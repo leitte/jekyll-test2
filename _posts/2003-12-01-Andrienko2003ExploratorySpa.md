@@ -13,4 +13,5 @@ categories:
 tags:
   - survey
   - continuous process
+  - 2D chart
 ---

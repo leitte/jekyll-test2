@@ -15,9 +15,11 @@ tags:
   - numeric attribute
   - single time-series
   - visual representation
+  - chart type
   - direct visual mapping
-  - polar coordinates
+  - circular chart
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
 ---
 Parallel coordinates, an important tool for multidimensional data visualization. The property axes of the traditional parallel coordinates are of equal length, which are restricted in many ways. This paper presents a parameterized parallel coordinates method by adjusting the parameters get by function to control the length of different axis. When the axial length get by the polar equation, parallel coordinates can be a good visualization for time-series data. On this basis, the introduction of color mapping function (CMF), establishes the mapping of data and color. The mapping function through interactive adjustment reduces the influence of individual data on the overall data and achieves a better visualization.

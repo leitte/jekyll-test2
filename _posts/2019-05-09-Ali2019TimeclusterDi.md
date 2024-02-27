@@ -15,15 +15,15 @@ tags:
   - multi-variate attribute
   - all time-series
   - visual representation
+  - chart type
   - direct visual mapping
   - line chart
   - transformation-based visual mapping
-  - 2D projections
+  - scatter plot
   - multi-form layout
-  - direct temporal encoding
-  - indirect temporal encoding
+  - explicit temporal encoding
+  - implicit temporal encoding
+  - 2D chart
   - interactive system
-  - clustering
-  - cluster analysis
-  - pattern detection
+  - dimensionality reduction
 ---

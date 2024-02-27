@@ -12,6 +12,7 @@ categories:
   - technical challenges
 tags:
   - continuous process
+  - 2D chart
   - technical challenges
 ---
 Histograms are a very useful tool for data analysis, because they show the distribution of values over a data dimension. Many data sets in engineering (like computational fluid dynamics, CFD), however, are time-dependent. While standard histograms can certainly show such data sets, they do not account for the special role time plays in physical processes and our perception of the world.

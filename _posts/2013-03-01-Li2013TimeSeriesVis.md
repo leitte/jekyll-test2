@@ -15,10 +15,12 @@ tags:
   - numeric attribute
   - all time-series
   - visual representation
+  - chart type
   - line chart
   - transformation-based visual mapping
   - single-view layout
   - no temporal encoding
+  - 2D chart
   - clustering
   - pattern detection
 ---

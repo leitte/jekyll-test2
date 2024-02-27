@@ -12,6 +12,7 @@ categories:
   - interaction
 tags:
   - continuous process
+  - 2D chart
   - interaction
   - interactive system
   - interactive navigation

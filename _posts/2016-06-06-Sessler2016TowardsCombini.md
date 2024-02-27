@@ -13,18 +13,17 @@ categories:
 tags:
   - continuous process
   - multiple time-series
+  - chart type
   - direct visual mapping
   - bar chart
   - line chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
   - no temporal encoding
+  - 2D chart
   - interaction
   - interactive system
-  - filtering
+  - interactive filtering
   - interactive querying
-  - clustering
-  - cluster analysis
-  - pattern detection
 ---
 We present a concept for the visual-interactive definition of meaningful subsets in data sets comprising multivariate attributes and time series data. Based on a generalization of requirements of a real-world user group, we propose a three-stage approach, combining visual-interactive querying, query filter analysis, and result exploration. The approach includes several design parameters that can easily be adapted in future design studies for alternative applications.

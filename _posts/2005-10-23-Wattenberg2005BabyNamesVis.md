@@ -15,13 +15,15 @@ tags:
   - numeric attribute
   - multiple time-series
   - all time-series
-  - flow diagram
+  - chart type
   - stacked area chart
+  - flow diagram
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interaction
   - interactive system
-  - filtering
+  - interactive filtering
   - interactive querying
   - trend analysis
 ---

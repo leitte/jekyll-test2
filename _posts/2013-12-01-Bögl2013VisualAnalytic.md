@@ -13,18 +13,20 @@ categories:
 tags:
   - continuous process
   - single time-series
+  - chart type
   - direct visual mapping
   - bar chart
   - line chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
   - highlighting
-  - filtering
+  - interactive filtering
   - integration of AI
   - cluster analysis
+  - pattern detection
   - forecasting
   - trend analysis
-  - pattern detection
 ---
 Model selection in time series analysis is a challenging task for domain experts in many application areas such as epidemiology, economy, or environmental sciences. The methodology used for this task demands a close combination of human judgement and automated computation. However, statistical software tools do not adequately support this combination through interactive visual interfaces. We propose a Visual Analytics process to guide domain experts in this task. For this purpose, we developed the TiMoVA prototype that implements this process based on user stories and iterative expert feedback on user experience. The prototype was evaluated by usage scenarios with an example dataset from epidemiology and interviews with two external domain experts in statistics. The insights from the experts' feedback and the usage scenarios show that TiMoVA is able to support domain experts in model selection tasks through interactive visual interfaces with short feedback cycles.

@@ -14,16 +14,18 @@ tags:
   - event-based process
   - multiple time-series
   - all time-series
+  - chart type
   - direct visual mapping
-  - polar coordinates
+  - circular chart
   - flow diagram
   - stream graph
   - transformation-based visual mapping
   - glyph-based chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
-  - filtering
+  - interactive filtering
   - clustering
   - trend analysis
   - streaming data

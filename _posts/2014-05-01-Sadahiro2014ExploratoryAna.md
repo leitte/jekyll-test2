@@ -13,13 +13,13 @@ categories:
 tags:
   - continuous process
   - all time-series
+  - chart type
   - direct visual mapping
   - line chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
   - no temporal encoding
+  - 2D chart
   - integration of AI
-  - clustering
-  - cluster analysis
-  - trend analysis
+  - dimensionality reduction
 ---

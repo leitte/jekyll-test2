@@ -17,12 +17,13 @@ tags:
   - multiple time-series
   - all time-series
   - visual representation
-  - flow diagram
+  - chart type
   - stacked area chart
+  - flow diagram
   - multi-view layout
-  - direct temporal encoding
-  - filtering
-  - clustering
+  - explicit temporal encoding
+  - 2D chart
+  - interactive filtering
   - technical challenges
   - visual complexity
 ---

@@ -16,11 +16,13 @@ tags:
   - multiple time-series
   - all time-series
   - visual representation
+  - chart type
   - flow diagram
   - stream graph
   - single-view layout
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
   - trend analysis
 ---

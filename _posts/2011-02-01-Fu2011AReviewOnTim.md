@@ -15,6 +15,7 @@ tags:
   - survey
   - continuous process
   - infrastructure
-  - similarity measures
-  - pattern description
+  - time-series representation
+  - similarity measure
+  - 2D chart
 ---

@@ -13,14 +13,16 @@ categories:
 tags:
   - continuous process
   - all time-series
+  - chart type
   - direct visual mapping
   - line chart
-  - pixel-based chart
-  - polar coordinates
+  - color field
+  - circular chart
   - transformation-based visual mapping
   - glyph-based chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
   - integration of AI
   - pattern detection

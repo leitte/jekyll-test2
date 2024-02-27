@@ -14,13 +14,15 @@ tags:
   - continuous process
   - event-based process
   - multiple time-series
+  - chart type
   - direct visual mapping
   - bar chart
   - line chart
   - transformation-based visual mapping
   - glyph-based chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
   - interactive querying
   - integration of AI

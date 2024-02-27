@@ -16,7 +16,8 @@ tags:
   - all time-series
   - visual representation
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - cluster analysis
   - trend analysis
 ---

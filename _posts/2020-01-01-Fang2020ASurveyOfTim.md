@@ -13,5 +13,6 @@ categories:
 tags:
   - survey
   - continuous process
+  - 2D chart
 ---
 Time series data visualization integrates data analysis and mining, computer graphics, interaction design and other technologies and methods. This paper first analyzes the characteristics of time series data, including time and data attributes. Secondly, two kinds of visualization methods are summarized: one is the visualization method of time attribute, including spiral chart, calendar view, theme river view and dynamic view; the other is the visualization method of high dimensional time series data, which mainly summarizes four kinds of parallel coordinate methods. And the visual interaction design method is analyzed. Finally, the visualization of time series data is summarized and prospected.

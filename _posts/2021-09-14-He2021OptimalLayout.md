@@ -15,11 +15,13 @@ tags:
   - multi-variate attribute
   - multiple time-series
   - visual representation
-  - flow diagram
+  - chart type
   - stacked area chart
+  - flow diagram
   - single-view layout
-  - direct temporal encoding
-  - trend analysis
+  - explicit temporal encoding
+  - 2D chart
   - pattern detection
+  - trend analysis
 ---
 In the era of big data, the analysis of multi-dimensional time series data is one of the important topics in many fields such as finance, science, logistics, and engineering. Using stacked graphs for visual analysis helps to visually reveal the changing characteristics of each dimension over time. In order to present visually appealing and easy-to-read stacked graphs, this paper constructs the minimum cumulative variance rule to determine the stacking order of each dimension, as well as adopts the width priority principle and the color complementary principle to determine the label placement positioning and text coloring. In addition, a color matching method is recommended by user study. The proposed optimal visual layout algorithm is applied to the visual analysis of actual multidimensional financial time series data, and as a result, vividly reveals the characteristics of the flow of securities trading funds between sectors.

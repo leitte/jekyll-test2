@@ -15,14 +15,16 @@ tags:
   - rank attribute
   - all time-series
   - visual representation
+  - chart type
   - direct visual mapping
   - line chart
-  - pixel-based chart
+  - color field
   - transformation-based visual mapping
   - glyph-based chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
   - no temporal encoding
+  - 2D chart
   - interactive system
   - trend analysis
 ---

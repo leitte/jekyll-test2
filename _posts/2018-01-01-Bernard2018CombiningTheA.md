@@ -14,10 +14,12 @@ tags:
   - continuous process
   - all time-series
   - infrastructure
+  - chart type
   - direct visual mapping
-  - pixel-based chart
+  - color field
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
   - segmentation
   - uncertainty in data

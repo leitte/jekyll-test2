@@ -17,12 +17,14 @@ tags:
   - multi-variate attribute
   - multiple time-series
   - all time-series
+  - chart type
   - direct visual mapping
   - bar chart
   - line chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
   - no temporal encoding
+  - 2D chart
   - interactive system
   - clustering
   - cluster analysis

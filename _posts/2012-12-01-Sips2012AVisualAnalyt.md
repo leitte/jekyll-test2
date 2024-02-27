@@ -17,22 +17,25 @@ tags:
   - numeric attribute
   - single time-series
   - infrastructure
+  - multi-scale abstraction
   - visual representation
+  - chart type
   - direct visual mapping
   - bar chart
   - line chart
-  - pixel-based chart
+  - color field
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interaction
   - interactive system
   - interactive navigation
   - interactive querying
   - clustering
+  - classification
+  - segmentation
+  - pattern detection
   - anomaly detection
   - forecasting
-  - segmentation
-  - classification
-  - pattern detection
 ---
 We present a Visual Analytics approach that addresses the detection of interesting patterns in numerical time series, specifically from environmental sciences. Crucial for the detection of interesting temporal patterns are the time scale and the starting points one is looking at. Our approach makes no assumption about time scale and starting position of temporal patterns and consists of three main steps: an algorithm to compute statistical values for all possible time scales and starting positions of intervals, visual identification of potentially interesting patterns in a matrix visualization, and interactive exploration of detected patterns. We demonstrate the utility of this approach in two scientific scenarios and explain how it allowed scientists to gain new insight into the dynamics of environmental systems.

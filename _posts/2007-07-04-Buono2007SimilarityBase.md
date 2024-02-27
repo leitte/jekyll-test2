@@ -13,17 +13,18 @@ categories:
 tags:
   - continuous process
   - all time-series
+  - chart type
   - direct visual mapping
   - line chart
-  - flow diagram
   - stacked area chart
+  - flow diagram
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
-  - filtering
+  - interactive filtering
   - interactive querying
   - integration of AI
-  - clustering
   - forecasting
   - trend analysis
 ---

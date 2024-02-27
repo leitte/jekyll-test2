@@ -13,13 +13,15 @@ categories:
 tags:
   - continuous process
   - all time-series
+  - chart type
   - direct visual mapping
   - line chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interaction
   - interactive system
-  - filtering
+  - interactive filtering
   - interactive querying
 ---
 The need for pattern discovery in long time series data led researchers to develop algorithms for similarity search. Most of the literature about time series focuses on algorithms that index time series and bring the data into the main storage, thus providing fast information retrieval on large time series. This paper reviews the state of the art in visualizing time series, and focuses on techniques that enable users to visually and interactively query time series. Then, it presents TimeSearcher 2, a tool that enables users to explore multidimensional data using synchronized tables and graphs with overview+detail, filter the time series data to reduce the scope of the search, select an existing pattern to find similar occurrences, and interactively adjust similarity parameters to narrow the result set. This tool is an extension of previous work, TimeSearcher 1, which uses graphical timeboxes to interactively query time series data.

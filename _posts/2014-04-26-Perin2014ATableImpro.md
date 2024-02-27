@@ -15,10 +15,12 @@ tags:
   - rank attribute
   - multi-variate attribute
   - all time-series
+  - chart type
   - direct visual mapping
   - line chart
   - multi-form layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interaction
   - interactive system
   - interactive navigation

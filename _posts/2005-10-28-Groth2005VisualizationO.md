@@ -15,11 +15,13 @@ tags:
   - numeric attribute
   - single time-series
   - visual representation
+  - chart type
   - direct visual mapping
   - line chart
-  - pixel-based chart
+  - color field
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - pattern detection
 ---
 We introduce a method to visualize dependencies between two time series by applying the concept of cross recurrence plots to the local ordinal structure. We derive a measure of the coupling strength which is robust against observational noise, nonlinear distortion of the amplitude, and low-frequency trends. Connections to the instantaneous phase and the determination of phase coupling of two coupled Rössler systems in the standard and funnel regimes are shown. An application to electroencephalogram data demonstrates that the method is robust with respect to artifacts.

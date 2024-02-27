@@ -14,21 +14,23 @@ tags:
   - event-based process
   - multiple time-series
   - all time-series
+  - chart type
   - direct visual mapping
   - bar chart
   - line chart
-  - pixel-based chart
+  - color field
   - calendar chart
   - flow diagram
   - stream graph
   - transformation-based visual mapping
   - glyph-based chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
-  - anomaly detection
   - classification
   - pattern detection
+  - anomaly detection
   - streaming data
 ---
 In this work, we introduce a novel visualization technique, the Temporal Intensity Map, which visually integrates data values over time to reveal the frequency, duration, and timing of significant features in streaming data. We combine the Temporal Intensity Map with several coordinated visualizations of detected events in data streams to create PhysioEx, a visual dashboard for multiple heterogeneous data streams. We have applied PhysioEx in a design study in the field of neonatal medicine, to support clinical researchers exploring physiologic data streams. We evaluated our method through consultations with domain experts. Results show that our tool provides deep insight capabilities, supports hypothesis generation, and can be well integrated into the workflow of clinical researchers.

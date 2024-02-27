@@ -15,10 +15,12 @@ tags:
   - multi-variate attribute
   - all time-series
   - visual representation
+  - chart type
   - direct visual mapping
-  - pixel-based chart
+  - color field
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
   - clustering
   - pattern detection

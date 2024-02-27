@@ -105,6 +105,20 @@ function onButtonClicked() {
 
 function onListToggleClicked() {
     this.classList.toggle('expand');
+    const notactiveButtons = this.closest("ul").querySelectorAll('button:not(.active)');
+    const toggleButtons = Array.from(notactiveButtons).filter(b => {
+        return b.parentNode.querySelectorAll('ul').length === 0;
+    });
+
+    toggleButtons.forEach(button => {
+        const li = button.parentNode;
+        if (li.style.display === "none") {
+            li.style.display = "";
+        } else {
+            li.style.display = "none";
+        }
+    });
+    /*
     const header = this.closest('li');
     this.closest("ul").querySelectorAll('button:not(.active)').forEach(b => {
         const li = b.parentNode;
@@ -116,4 +130,5 @@ function onListToggleClicked() {
             }
         }
     });
+    */
 }

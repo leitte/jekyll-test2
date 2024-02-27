@@ -13,6 +13,7 @@ categories:
 tags:
   - continuous process
   - multi-variate attribute
+  - 2D chart
   - evaluation
 ---
 Parallel coordinates are commonly used for non-temporal multivariate data, but there is little support for their usability for displaying temporal multivariate data. In this paper, we introduce a study evaluating the usability of 2D and 3D parallel coordinates for pattern identification in temporal multivariate data. The results indicate that 3D parallel coordinates have higher usability, as measured with higher accuracy and faster response time as well as subjective ratings, compared to 2D.

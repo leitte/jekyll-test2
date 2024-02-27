@@ -12,4 +12,5 @@ categories:
   - theory
 tags:
   - theory
+  - 2D chart
 ---

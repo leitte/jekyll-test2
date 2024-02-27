@@ -9,15 +9,20 @@ doi: 10.1109/TVCG.2018.2825424
 date: 2019-04-01
 citation_count: 30
 categories:
+  - infrastructure
   - integration of AI
 tags:
   - continuous process
   - all time-series
+  - infrastructure
+  - multi-scale abstraction
+  - chart type
   - direct visual mapping
   - bar chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
   - no temporal encoding
+  - 2D chart
   - interactive system
   - integration of AI
   - clustering

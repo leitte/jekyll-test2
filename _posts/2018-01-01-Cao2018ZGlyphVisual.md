@@ -14,13 +14,15 @@ tags:
   - continuous process
   - multi-variate attribute
   - single time-series
+  - chart type
   - direct visual mapping
   - line chart
-  - polar coordinates
+  - circular chart
   - transformation-based visual mapping
   - glyph-based chart
   - single-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - integration of AI
   - pattern detection
 ---

@@ -2,6 +2,9 @@
   {%- assign keys = include.keys -%}
 {%- endif -%}
 
+{% assign type = 'tag' %}
+{% assign field = 'tags' %}
+
 <div class="common-list">
     <ul>
       <li>
@@ -12,32 +15,26 @@
         </a></div>
       </li>
  
-        {% for entry in keys %}
-        <li> {{ entry.label }}
-            {% if entry.children %}
-            <ul style="margin-left: 1px; list-style: none inside; padding: 0px 10px; border-left: 1.5px solid lightgray;">
-                {% for subcategory in entry.children %}
-                <li>{{ subcategory.label }}
-                    {% if subcategory.children %}
-                    <ul style="margin-left: 1px; list-style: none inside; padding: 0px 10px; border-left: 1.5px solid lightgray;">
-                        {% for subsubcategory in subcategory.children %}
-                        <li>{{ subsubcategory.label }}
-                            {% if subcategory.children %}
-                            <ul style="margin-left: 1px; list-style: none inside; padding: 0px 10px; border-left: 1.5px solid lightgray;">
-                                {% for subsubsubcategory in subsubcategory.children %}
-                                <li>{{ subsubsubcategory.label }}</li> 
-                                {% endfor %}
-                            </ul>
-                            {% endif %}
-                        </li> 
-                        {% endfor %}
-                    </ul>
-                    {% endif %}
-                </li> 
-                {% endfor %}
-            </ul>
-            {% endif %}
-        </li>
-        {% endfor %}
+      {% for entry in site.data.taxonomy %}
+      <li> <button class="button slim">{{ entry.label }}</button>
+          {% if entry.children %}
+          <ul class="ul-tag">
+              {% for subcategory in entry.children %}
+              {% assign key = subcategory.label %}
+              <li><button class="button {{ type }} slim" id="{{- key | remove: ' ' -}}" data-label="{{ key }}">{{ key }} <span class="list-counter"><var class="{{- type -}}-cnt" id="{{- key | remove:' ' -}}_cnt">{{ site.posts | where: field, key | size }}</var>/{{ site.posts | where: field, key | size }}</span></button>
+                  {% if subcategory.children %}
+                  <ul class="ul-tag">
+                      {% for subsubcategory in subcategory.children %}
+                      {% assign key = subsubcategory.label %}
+                      <li><button class="button {{ type }} slim" id="{{- key | remove: ' ' -}}" data-label="{{ key }}">{{ key }} <span class="list-counter"><var class="{{- type -}}-cnt" id="{{- key | remove:' ' -}}_cnt">{{ site.posts | where: field, key | size }}</var>/{{ site.posts | where: field, key | size }}</span></button></li> 
+                      {% endfor %}
+                  </ul>
+                  {% endif %}
+              </li> 
+              {% endfor %}
+          </ul>
+          {% endif %}
+      </li>
+      {% endfor %}
     </ul>
   </div>

@@ -17,6 +17,6 @@ tags:
   - numeric attribute
   - infrastructure
   - time-series representation
-  - pattern description
+  - 2D chart
 ---
 Time series motifs are repeated segments in a long time series that, if exist, carry precise information about the underlying source of the time series. Motif discovery in time series data has received significant attention in the data mining community since its inception, principally because, motif discovery is meaningful and more likely to succeed when the data is large.

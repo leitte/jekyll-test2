@@ -13,10 +13,12 @@ tags:
   - continuous process
   - event-based process
   - all time-series
+  - chart type
   - direct visual mapping
   - line chart
   - transformation-based visual mapping
   - glyph-based chart
+  - 2D chart
   - interactive querying
 ---
 Finding patterns in temporal data is an important data analysis task in many domains. Static visualizations can help users easily see certain instances of patterns, but are not specially designed to support systematic analysis tasks, such as finding all instances of a pattern automatically. VizPattern is an interactive visual query environment that uses a comic strip metaphor to enable users to easily and quickly define and locate complex temporal patterns. Evaluations provide evidence that VizPattern is applicable in many domains, and that it enables a wide variety of users to answer questions about temporal data faster and with fewer errors than existing state-of-the-art visual analysis systems.

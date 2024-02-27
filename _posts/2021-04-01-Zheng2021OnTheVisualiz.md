@@ -14,6 +14,7 @@ categories:
 tags:
   - theory
   - infrastructure
-  - multi-scale representation
+  - multi-scale abstraction
+  - 2D chart
 ---
 In this paper, we study the visual design of hierarchical multivariate data analysis. We focus on the extension of four hierarchical univariate concepts—the sunburst chart, the icicle plot, the circular treemap, and the bubble treemap—to the multivariate domain. Our study identifies several advantageous design variants, which we discuss with respect to previous approaches, and whose utility we evaluate with a user study and demonstrate for different analysis purposes and different types of data.

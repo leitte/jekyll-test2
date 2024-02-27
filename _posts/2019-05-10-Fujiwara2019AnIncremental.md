@@ -15,15 +15,17 @@ tags:
   - multi-variate attribute
   - all time-series
   - visual representation
+  - chart type
   - transformation-based visual mapping
-  - 2D projections
+  - scatter plot
   - parallel coordinates
   - multi-view layout
-  - indirect temporal encoding
+  - implicit temporal encoding
   - no temporal encoding
+  - 2D chart
   - clustering
   - pattern detection
-  - uncertainty in data
   - streaming data
+  - uncertainty in data
 ---
 Dimensionality reduction (DR) methods are commonly used for analyzing and visualizing multidimensional data. However, when data is a live streaming feed, conventional DR methods cannot be directly used because of their computational complexity and inability to preserve the projected data positions at previous time points. In addition, the problem becomes even more challenging when the dynamic data records have a varying number of dimensions as often found in real-world applications. This paper presents an incremental DR solution. We enhance an existing incremental PCA method in several ways to ensure its usability for visualizing streaming multidimensional data. First, we use geometric transformation and animation methods to help preserve a viewer's mental map when visualizing the incremental results. Second, to handle data dimension variants, we use an optimization method to estimate the projected data positions, and also convey the resulting uncertainty in the visualization. We demonstrate the effectiveness of our design with two case studies using real-world datasets.

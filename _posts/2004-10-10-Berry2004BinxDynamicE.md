@@ -17,13 +17,15 @@ tags:
   - numeric attribute
   - single time-series
   - infrastructure
-  - multi-scale representation
+  - multi-scale abstraction
   - visual representation
+  - chart type
   - direct visual mapping
   - line chart
   - single-view layout
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive navigation
   - technical challenges
   - visual complexity

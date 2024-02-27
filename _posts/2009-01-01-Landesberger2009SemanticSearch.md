@@ -13,4 +13,5 @@ categories:
 tags:
   - numeric attribute
   - infrastructure
+  - 2D chart
 ---

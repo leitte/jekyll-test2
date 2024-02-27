@@ -13,15 +13,17 @@ categories:
 tags:
   - continuous process
   - single time-series
+  - chart type
   - direct visual mapping
   - line chart
-  - pixel-based chart
+  - color field
   - transformation-based visual mapping
-  - 2D projections
+  - scatter plot
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - highlighting
-  - filtering
+  - interactive filtering
   - integration of AI
   - statistical analysis
 ---

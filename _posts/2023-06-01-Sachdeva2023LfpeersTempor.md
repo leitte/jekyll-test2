@@ -15,7 +15,8 @@ tags:
   - numeric attribute
   - multi-variate attribute
   - infrastructure
-  - similarity measures
+  - similarity measure
+  - 2D chart
   - interactive system
   - integration of AI
   - clustering

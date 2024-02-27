@@ -13,15 +13,17 @@ categories:
 tags:
   - continuous process
   - all time-series
+  - chart type
   - direct visual mapping
-  - pixel-based chart
-  - flow diagram
   - stacked area chart
+  - color field
+  - flow diagram
   - transformation-based visual mapping
-  - 2D projections
+  - scatter plot
   - parallel coordinates
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - integration of AI
   - clustering
   - cluster analysis

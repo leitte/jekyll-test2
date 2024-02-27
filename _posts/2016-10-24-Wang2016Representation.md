@@ -16,9 +16,7 @@ tags:
   - single time-series
   - single-view layout
   - no temporal encoding
+  - 2D chart
   - integration of AI
-  - clustering
-  - cluster analysis
   - classification
-  - pattern detection
 ---

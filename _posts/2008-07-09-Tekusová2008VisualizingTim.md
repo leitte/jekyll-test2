@@ -15,14 +15,16 @@ tags:
   - multi-variate attribute
   - all time-series
   - visual representation
+  - chart type
   - direct visual mapping
   - bar chart
   - line chart
-  - polar coordinates
+  - circular chart
   - multi-form layout
-  - direct temporal encoding
-  - indirect temporal encoding
+  - explicit temporal encoding
+  - implicit temporal encoding
   - no temporal encoding
+  - 2D chart
   - interactive system
   - trend analysis
 ---

@@ -14,13 +14,15 @@ tags:
   - continuous process
   - all time-series
   - infrastructure
-  - data structures
+  - data structure
+  - chart type
   - direct visual mapping
   - line chart
   - multi-view layout
-  - direct temporal encoding
+  - explicit temporal encoding
+  - 2D chart
   - interactive system
-  - filtering
+  - interactive filtering
   - interactive querying
   - pattern detection
   - streaming data
