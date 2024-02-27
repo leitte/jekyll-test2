@@ -6,6 +6,13 @@
 
 <h2>Tags</h2>
 <div style="overflow-y: scroll; height:600px;">
+    {% assign keys = site.data.taxonomy %}
+    {% include sidebar/taxonomy-list.html %}
+</div>
+
+
+<h2>Tags</h2>
+<div style="overflow-y: scroll; height:600px;">
     {% include sidebar/tag-list.html %}
 </div>
 

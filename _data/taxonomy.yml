@@ -1,0 +1,115 @@
+- id: Infrastructure
+  label: infrastructure
+  children:
+    - id: TimeSeriesRepresentation
+      label: time-series representation
+    - id: SimilarityMeasure
+      label: similarity measure
+    - id: MultiScaleAbstraction
+      label: multi-scale abstraction
+    - id: DataStructure
+      label: data structure
+    - id: Provenance
+      label: provenance
+- id: VisualRepresentation
+  label: visual representation
+  children:
+    - id: ChartType
+      label: chart type
+      children: 
+        - id: LineChart
+          label: line chart
+        - id: StackedAreaChart
+          label: stacked area chart
+        - id: HorizonGraph
+          label: horizon graph
+        - id: ColorField
+          label: color field
+        - id: CircularChart
+          label: circular chart
+        - id: CalendarChart
+          label: calendar chart
+        - id: FlowDiagram
+          label: flow diagram
+        - id: ScatterPlot
+          label: scatter plot
+        - id: Spectrum
+          label: spectrum
+        - id: MultiScaleRepresentation
+          label: multi-scale chart
+        - id: OtherChartType
+          label: other chart type
+    - id: VisualLayout
+      label: visual layout
+      children:
+        - id: SingleViewLayout
+          label: single view layout
+        - id: MultiViewLayout
+          label: multi-view layout
+        - id: MultiFormLayout
+          label: multi-form layout
+    - id: TemporalEncoding
+      label: temporal encoding
+      children:
+        - id: ExplicitTemporalEncoding
+          label: explicit temporal encoding
+        - id: ImplicitTemporalEncoding
+          label: implicit temporal encoding
+        - id: NoTemporalEncoding
+          label: no temporal encoding
+- id: Evaluation
+  label: evaluation
+  children:
+    - id: EvaluationOfVisualPerception
+      label: evaluation of visual perception
+    - id: EvaluationOfInteraction
+      label: evaluation of interaction
+    - id: EvaluationOfUserCentricAspects
+      label: evaluation of user-centric aspects
+    - id: Benchmarking
+      label: benchmarking
+- id: Interaction
+  label: interaction
+  children:
+    - id: InteractiveSystem
+      label: interactive system
+    - id: InteractiveNavigation
+      label: interactive navigation
+    - id: InteractiveQuerying
+      label: interactive querying
+- id: IntegrationOfAI
+  label: integration of AI
+  children:
+    - id: Clustering
+      label: clustering
+    - id: Classification
+      label: classification
+    - id: Segmentation
+      label: segmentation
+    - id: PatternDetection
+      label: pattern detection
+    - id: AnomalyDetection
+      label: anomaly detection
+    - id: Forecasting
+      label: forecasting
+    - id: TrendAnalysis
+      label: trend analysis
+    - id: ModelBuilding
+      label: model building
+    - id: StatisticalAnalysis
+      label: statistical analysis
+    - id: DimensionalityReduction
+      label: dimensionality reduction
+- id: TechnicalChallenges
+  label: technical challenges
+  children:
+    - id: Performance
+      label: performance
+    - id: VisualComplexity
+      label: visual complexity
+    - id: StreamingData
+      label: streaming data
+    - id: UncertaintyInData
+      label: uncertainty in data
+    - id: IrregularAndMissingData
+      label: irregular and missing data
