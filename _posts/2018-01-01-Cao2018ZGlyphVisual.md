@@ -24,6 +24,6 @@ tags:
   - explicit temporal encoding
   - 2D chart
   - integration of AI
-  - pattern detection
+  - statistical analysis
 ---
 Outlier analysis techniques are extensively used in many domains such as intrusion detection. Today, even with the most advanced statistical learning techniques, human judgment still plays an important role in outlier analysis tasks due to the difficulty of defining and collecting outlier examples. This work seeks to tackle this problem by introducing a new visualization design, “Z-Glyph,” a family of glyphs designed to facilitate human judgment in outlier analysis of multivariate data. By employing a location-scale transformation, a Z-Glyph represents the “normal” data using regular shapes (e.g. straight line and circle), such that the abnormal data can be revealed when deviating from the regular shapes. Extensive controlled experiment and case studies based on real-world datasets indicate the superior performance of the Z-Glyph family, compared with the baselines, suggesting that the proposed design is able to leverage human perceptional features with statistical characterization. This study contributes to a more fundamental understanding about designing visual representations for revealing outliers in multivariate data, which can be applied as a building block in many domain-specific anomaly detection applications.

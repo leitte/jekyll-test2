@@ -9,9 +9,8 @@ doi: 10.2312/eurova.20161124
 date: 2016-06-06
 citation_count: 4
 categories:
-  - theory
+  - integration of AI
 tags:
-  - theory
   - continuous process
   - event-based process
   - multi-variate attribute
@@ -26,6 +25,7 @@ tags:
   - no temporal encoding
   - 2D chart
   - interactive system
+  - integration of AI
   - clustering
   - cluster analysis
   - pattern detection

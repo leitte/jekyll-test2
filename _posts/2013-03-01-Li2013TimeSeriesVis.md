@@ -21,6 +21,4 @@ tags:
   - single-view layout
   - no temporal encoding
   - 2D chart
-  - clustering
-  - pattern detection
 ---

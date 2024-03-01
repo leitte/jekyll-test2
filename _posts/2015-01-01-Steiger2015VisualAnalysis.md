@@ -25,8 +25,6 @@ tags:
   - 2D chart
   - interactive system
   - integration of AI
-  - clustering
-  - cluster analysis
-  - pattern detection
+  - dimensionality reduction
 ---
 In this paper, we present visual-interactive techniques for revealing relations between two co-existing multivariate feature spaces. Such data is generated, for example, by sensor networks characterized by a set of (categorical) attributes which continuously measure physical quantities over time. A challenging analysis task is the seeking for interesting relations between the time-oriented data and the sensor attributes. Our approach uses visualinteractive analysis to enable analysts to identify correlations between similar time series and similar attributes of the data. It is based on a combination of machine-based encoding of this information in position and color and the human ability to recognize cohesive structures and patterns. In our figures, we illustrate how analysts can identify similarities and anomalies between time series and categorical attributes of metering devices and sensors.

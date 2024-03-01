@@ -21,8 +21,6 @@ tags:
   - explicit temporal encoding
   - 2D chart
   - interactive system
-  - pattern detection
-  - trend analysis
   - technical challenges
   - streaming data
 ---

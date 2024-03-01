@@ -25,7 +25,5 @@ tags:
   - 2D chart
   - interactive system
   - integration of AI
-  - pattern detection
   - anomaly detection
-  - trend analysis
 ---

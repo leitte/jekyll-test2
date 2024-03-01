@@ -27,5 +27,6 @@ tags:
   - interactive system
   - interactive querying
   - integration of AI
+  - classification
   - pattern detection
 ---

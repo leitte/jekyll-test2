@@ -9,10 +9,13 @@ doi: 10.1109/VIS49827.2021.9623320
 date: 2021-10-01
 citation_count: 1
 categories:
+  - infrastructure
   - integration of AI
 tags:
   - continuous process
   - single time-series
+  - infrastructure
+  - data structure
   - chart type
   - direct visual mapping
   - line chart

@@ -24,6 +24,5 @@ tags:
   - interactive navigation
   - interactive filtering
   - interactive querying
-  - pattern detection
 ---
 This paper develops a sketch+fisheye interface supporting natural HCI in visual analysis of large multiple time-series. The sketch-based fisheye can help analysts to efficiently analyze the high density temporal data at multi-scale magnification level while maintain in the entire tern oral context. The sketch-based multiple time-series query provides a natural HCI technique which is especially suitable for visual analysis of temporal curves. This sketch+fisheye interface will contribute to minimize the HCI cost and keep the consistency of thinking in visual analysis, thus enhancing analysis efficiency.

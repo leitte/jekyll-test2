@@ -24,6 +24,5 @@ tags:
   - interactive system
   - integration of AI
   - pattern detection
-  - anomaly detection
 ---
 Visual analysis of time series data is an important, yet challenging task with many application examples in fields such as financial or news stream data analysis. Many visual time series analysis approaches consider a global perspective on the time series. Fewer approaches consider visual analysis of local patterns in time series, and often rely on interactive specification of the local area of interest. We present initial results of an approach that is based on automatic detection of local interest points. We follow an overview-first approach to find useful parameters for the interest point detection, and details-on-demand to relate the found patterns. We present initial results and detail possible extensions of the approach.

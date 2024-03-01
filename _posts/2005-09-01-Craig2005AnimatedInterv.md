@@ -26,5 +26,4 @@ tags:
   - interaction
   - interactive system
   - interactive querying
-  - pattern detection
 ---

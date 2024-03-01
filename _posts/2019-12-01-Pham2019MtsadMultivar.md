@@ -25,7 +25,6 @@ tags:
   - 2D chart
   - interactive system
   - integration of AI
-  - pattern detection
   - anomaly detection
 ---
 Detecting outliers is one of the fundamental tasks in visual analytics and valuable in many application domains, such as suspicious network cyberattack recognition. This paper introduces an approach to analyzing and visualizing high-dimensional time series, focusing on identifying multivariate observations that are significantly different from the others. We also propose a prototype, called MTSAD, to guide users when interactively exploring abnormalities in large time series. The prototype contains two views: the main window provides an overview of identified outliers overtime, the detail window investigates and explores the ranked temporal data entries based on their outlying contributions to the overall plots. The visual interface supports a full range of interactions, such as lensing, brushing and linking, ranking, and filtering. To validate the benefits and usefulness of our approach, we demonstrate MTSAD on real-world datasets of different numbers of attributes.

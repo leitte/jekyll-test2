@@ -10,6 +10,8 @@ date: 2019-05-10
 citation_count: 53
 categories:
   - visual representation
+  - integration of AI
+  - technical challenges
 tags:
   - continuous process
   - multi-variate attribute
@@ -23,8 +25,9 @@ tags:
   - implicit temporal encoding
   - no temporal encoding
   - 2D chart
-  - clustering
-  - pattern detection
+  - integration of AI
+  - dimensionality reduction
+  - technical challenges
   - streaming data
   - uncertainty in data
 ---

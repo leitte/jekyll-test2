@@ -28,6 +28,6 @@ tags:
   - interaction
   - interactive system
   - interactive navigation
-  - pattern detection
+  - similarity search
 ---
 The need for pattern discovery in long time-series data led researchers to develop interactive visualization tools and analytical algorithms for gaining insight into the data. Most of the literature on time-series data visualization either focus on a small number of tasks or a specific domain. We propose KronoMiner, a tool that embeds new interaction and visualization techniques as well as analytical capabilities for the visual exploration of time-series data. The interface's design has been iteratively refined based on feedback from expert users. Qualitative evaluation with an expert user not involved in the design process indicates that our prototype is promising for further research.

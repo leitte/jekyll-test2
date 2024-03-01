@@ -28,7 +28,6 @@ tags:
   - clustering
   - cluster analysis
   - pattern detection
-  - anomaly detection
   - streaming data
 ---
 We present a system to analyze time‐series data in sensor networks. Our approach supports exploratory tasks for the comparison of univariate, geo‐referenced sensor data, in particular for anomaly detection. We split the recordings into fixed‐length patterns and show them in order to compare them over time and space using two linked views. Apart from geo‐based comparison across sensors we also support different temporal patterns to discover seasonal effects, anomalies and periodicities.
