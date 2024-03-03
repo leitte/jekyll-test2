@@ -9,8 +9,11 @@ doi: 10.14778/2732951.2732953
 date: 2014-06-01
 citation_count: 89
 categories:
+  - infrastructure
 tags:
   - single time-series
+  - infrastructure
+  - multi-scale abstraction
   - chart type
   - direct visual mapping
   - line chart
@@ -18,11 +21,6 @@ tags:
   - explicit temporal encoding
   - 2D chart
   - interactive querying
-  - clustering
-  - classification
-  - segmentation
-  - anomaly detection
-  - forecasting
 ---
 Visual analysis of high-volume time series data is ubiquitous in many industries, including finance, banking, and discrete manufacturing. Contemporary, RDBMS-based systems for visualization of high-volume time series data have difficulty to cope with the hard latency requirements and high ingestion rates of interactive visualizations. Existing solutions for lowering the volume of time series data disregard the semantics of visualizations and result in visualization errors. 
  

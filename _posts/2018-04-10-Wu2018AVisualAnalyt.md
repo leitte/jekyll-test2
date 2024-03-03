@@ -23,7 +23,7 @@ tags:
   - transformation-based visual mapping
   - scatter plot
   - glyph-based chart
-  - multi-view layout
+  - multi-form layout
   - explicit temporal encoding
   - no temporal encoding
   - 2D chart

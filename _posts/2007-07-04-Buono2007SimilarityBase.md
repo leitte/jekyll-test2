@@ -25,7 +25,7 @@ tags:
   - interactive filtering
   - interactive querying
   - integration of AI
+  - similarity search
   - forecasting
-  - trend analysis
 ---
 Time-series forecasting has a large number of applications. Users with a partial time series for auctions, new stock offerings, or industrial processes desire estimates of the future behavior. We present a data driven forecasting method and interface called similarity-based forecasting (SBF). A pattern matching search in an historical time series dataset produces a subset of curves similar to the partial time series. The forecast is displayed graphically as a river plot showing statistical information about the SBF subset. A forecasting preview interface allows users to interactively explore alternative pattern matching parameters and see multiple forecasts simultaneously. User testing with 8 users demonstrated advantages and led to improvements.

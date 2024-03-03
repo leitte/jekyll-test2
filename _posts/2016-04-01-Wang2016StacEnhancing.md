@@ -20,7 +20,7 @@ tags:
   - chart type
   - stacked area chart
   - flow diagram
-  - multi-view layout
+  - single-view layout
   - explicit temporal encoding
   - 2D chart
   - interactive filtering

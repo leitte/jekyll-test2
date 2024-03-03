@@ -19,7 +19,7 @@ tags:
   - line chart
   - flow diagram
   - Sankey diagram
-  - multi-view layout
+  - multi-form layout
   - explicit temporal encoding
   - no temporal encoding
   - 2D chart

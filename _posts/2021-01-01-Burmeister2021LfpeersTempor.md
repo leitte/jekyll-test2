@@ -12,13 +12,14 @@ categories:
   - interaction
 tags:
   - continuous process
+  - numeric attribute
   - all time-series
   - chart type
   - direct visual mapping
   - line chart
   - transformation-based visual mapping
   - scatter plot
-  - multi-view layout
+  - multi-form layout
   - explicit temporal encoding
   - no temporal encoding
   - 2D chart
@@ -26,6 +27,7 @@ tags:
   - interactive system
   - interactive querying
   - clustering
+  - similarity search
   - pattern detection
   - trend analysis
 ---

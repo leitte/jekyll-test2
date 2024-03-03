@@ -20,7 +20,7 @@ tags:
   - color field
   - circular chart
   - calendar chart
-  - multi-view layout
+  - multi-form layout
   - explicit temporal encoding
   - 2D chart
   - interactive system

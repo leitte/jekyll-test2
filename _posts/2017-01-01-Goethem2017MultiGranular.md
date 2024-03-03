@@ -12,6 +12,7 @@ categories:
   - integration of AI
 tags:
   - continuous process
+  - numeric attribute
   - all time-series
   - chart type
   - direct visual mapping

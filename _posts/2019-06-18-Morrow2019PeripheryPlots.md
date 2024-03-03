@@ -18,7 +18,6 @@ tags:
   - direct visual mapping
   - bar chart
   - line chart
-  - multi-view layout
   - explicit temporal encoding
   - 2D chart
   - interactive system

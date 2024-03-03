@@ -22,7 +22,6 @@ tags:
   - multi-view layout
   - explicit temporal encoding
   - 2D chart
-  - anomaly detection
   - streaming data
 ---
 Time series are a data type of utmost importance in many domains such as business management and service monitoring. We address the problem of visualizing large time-related data sets which are difficult to visualize effectively with standard techniques given the limitations of current display devices. We propose a framework for intelligent time- and data-dependent visual aggregation of data along multiple resolution levels. This idea leads to effective visualization support for long time-series data providing both focus and context. The basic idea of the technique is that either data-dependent or application-dependent, display space is allocated in proportion to the degree of interest of data subintervals, thereby (a) guiding the user in perceiving important information, and (b) freeing required display space to visualize all the data. The automatic part of the framework can accommodate any time series analysis algorithm yielding a numeric degree of interest scale. We apply our techniques on real-world data sets, compare it with the standard visualization approach, and conclude the usefulness and scalability of the approach.

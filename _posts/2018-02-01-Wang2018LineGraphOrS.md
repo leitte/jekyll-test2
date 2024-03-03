@@ -19,7 +19,7 @@ tags:
   - color field
   - transformation-based visual mapping
   - scatter plot
-  - multi-view layout
+  - single-view layout
   - explicit temporal encoding
   - 2D chart
   - highlighting

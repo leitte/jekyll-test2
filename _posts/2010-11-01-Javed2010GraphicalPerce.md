@@ -24,6 +24,7 @@ tags:
   - explicit temporal encoding
   - 2D chart
   - evaluation
+  - evaluation of visual perception
   - technical challenges
   - visual complexity
 ---

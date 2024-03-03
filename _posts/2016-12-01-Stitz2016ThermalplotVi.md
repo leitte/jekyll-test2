@@ -20,7 +20,7 @@ tags:
   - line chart
   - transformation-based visual mapping
   - scatter plot
-  - multi-view layout
+  - multi-form layout
   - explicit temporal encoding
   - implicit temporal encoding
   - 2D chart

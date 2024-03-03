@@ -18,6 +18,7 @@ tags:
   - line chart
   - transformation-based visual mapping
   - glyph-based chart
+  - multi-form layout
   - 2D chart
   - interactive querying
 ---

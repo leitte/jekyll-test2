@@ -21,7 +21,7 @@ tags:
   - circular chart
   - transformation-based visual mapping
   - scatter plot
-  - multi-view layout
+  - multi-form layout
   - explicit temporal encoding
   - implicit temporal encoding
   - no temporal encoding

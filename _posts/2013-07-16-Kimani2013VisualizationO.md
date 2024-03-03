@@ -20,7 +20,7 @@ tags:
   - bar chart
   - color field
   - circular chart
-  - multi-view layout
+  - multi-form layout
   - explicit temporal encoding
   - 2D chart
   - streaming data

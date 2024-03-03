@@ -17,7 +17,7 @@ tags:
   - chart type
   - direct visual mapping
   - color field
-  - multi-view layout
+  - single-view layout
   - explicit temporal encoding
   - 2D chart
   - interactive system

@@ -22,7 +22,6 @@ tags:
   - single-view layout
   - explicit temporal encoding
   - 2D chart
-  - trend analysis
   - technical challenges
   - visual complexity
 ---

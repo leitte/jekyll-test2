@@ -17,17 +17,19 @@ tags:
   - multiple time-series
   - all time-series
   - infrastructure
+  - multi-scale abstraction
   - data bases for time-series
   - chart type
   - direct visual mapping
   - line chart
+  - single-view layout
   - multi-view layout
   - 2D chart
   - interaction
   - interactive system
   - interactive filtering
   - interactive querying
-  - forecasting
   - technical challenges
+  - performance
 ---
 The speed of data retrieval qualitatively affects how analysts visually explore and analyze their data. To ensure smooth interactions in massive time series datasets, one needs to address the challenges of computing ad hoc queries, distributing query load, and hiding system latency. In this paper, we present ATLAS, a visualization tool for temporal data that addresses these issues using a combination of high performance database technology, predictive caching, and level of detail management. We demonstrate ATLAS using commodity hardware on a network traffic dataset of more than a billion records.

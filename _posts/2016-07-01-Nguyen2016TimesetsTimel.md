@@ -15,11 +15,12 @@ tags:
   - event-based process
   - all time-series
   - visual representation
+  - flow diagram
+  - glyph-based chart
   - single-view layout
   - explicit temporal encoding
   - 2D chart
   - interactive system
   - interactive filtering
-  - trend analysis
 ---
 In this article, we introduce a novel timeline visualization technique, TimeSets, that helps make sense of complex temporal datasets by showing the set relationships among individual events. TimeSets visually groups events that share a topic, such as a place or a person, while preserving their temporal order. It dynamically adjusts the level of detail for each event to suit the amount of information and display estate. Various design options were explored to address issues such as one event belonging to multiple topics. A controlled experiment was conducted to evaluate its effectiveness by comparing it to the KelpFusion method. The results showed significant advantage in accuracy and user preference.

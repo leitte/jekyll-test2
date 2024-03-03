@@ -20,6 +20,7 @@ tags:
   - explicit temporal encoding
   - 2D chart
   - evaluation
+  - evaluation of visual perception
   - interactive system
   - technical challenges
   - streaming data

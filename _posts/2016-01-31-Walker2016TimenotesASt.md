@@ -21,6 +21,8 @@ tags:
   - explicit temporal encoding
   - 2D chart
   - evaluation
+  - evaluation of visual perception
+  - evaluation of interaction design
   - interaction
   - interactive system
 ---

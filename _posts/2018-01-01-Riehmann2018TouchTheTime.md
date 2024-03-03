@@ -21,7 +21,7 @@ tags:
   - circular chart
   - flow diagram
   - stream graph
-  - multi-view layout
+  - single-view layout
   - explicit temporal encoding
   - 2D chart
   - interaction

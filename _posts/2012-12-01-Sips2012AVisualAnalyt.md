@@ -24,6 +24,7 @@ tags:
   - bar chart
   - line chart
   - color field
+  - single-view layout
   - multi-view layout
   - explicit temporal encoding
   - 2D chart

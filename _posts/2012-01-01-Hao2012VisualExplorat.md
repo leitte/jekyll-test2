@@ -20,7 +20,7 @@ tags:
   - line chart
   - transformation-based visual mapping
   - glyph-based chart
-  - multi-view layout
+  - multi-form layout
   - explicit temporal encoding
   - 2D chart
   - integration of AI

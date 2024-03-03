@@ -24,4 +24,5 @@ tags:
   - clustering
   - cluster analysis
   - pattern detection
+  - anomaly detection
 ---

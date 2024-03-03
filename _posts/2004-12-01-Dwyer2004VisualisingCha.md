@@ -25,5 +25,4 @@ tags:
   - interactive filtering
   - clustering
   - cluster analysis
-  - trend analysis
 ---

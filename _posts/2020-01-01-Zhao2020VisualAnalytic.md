@@ -17,7 +17,7 @@ tags:
   - direct visual mapping
   - line chart
   - color field
-  - multi-view layout
+  - multi-form layout
   - explicit temporal encoding
   - 2D chart
   - integration of AI

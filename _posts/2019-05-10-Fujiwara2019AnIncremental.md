@@ -21,7 +21,7 @@ tags:
   - transformation-based visual mapping
   - scatter plot
   - parallel coordinates
-  - multi-view layout
+  - single-view layout
   - implicit temporal encoding
   - no temporal encoding
   - 2D chart

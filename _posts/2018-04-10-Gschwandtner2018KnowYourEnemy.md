@@ -16,7 +16,7 @@ tags:
   - direct visual mapping
   - bar chart
   - color field
-  - multi-view layout
+  - multi-form layout
   - explicit temporal encoding
   - no temporal encoding
   - 2D chart

@@ -19,7 +19,9 @@ tags:
   - chart type
   - direct visual mapping
   - bar chart
-  - multi-view layout
+  - calendar chart
+  - flow diagram
+  - multi-form layout
   - explicit temporal encoding
   - no temporal encoding
   - 2D chart

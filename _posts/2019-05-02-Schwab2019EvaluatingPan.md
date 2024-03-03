@@ -12,8 +12,11 @@ categories:
   - evaluation
   - interaction
 tags:
+  - single-view layout
+  - explicit temporal encoding
   - 2D chart
   - evaluation
+  - evaluation of interaction design
   - interaction
   - interactive system
   - interactive navigation

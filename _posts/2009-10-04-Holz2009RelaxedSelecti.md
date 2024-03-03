@@ -15,6 +15,7 @@ tags:
   - infrastructure
   - similarity measure
   - chart type
+  - multi-view layout
   - 2D chart
   - interaction
   - interactive system

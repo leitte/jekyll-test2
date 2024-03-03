@@ -30,7 +30,6 @@ tags:
   - interactive filtering
   - interactive querying
   - clustering
-  - trend analysis
   - technical challenges
   - uncertainty in data
 ---

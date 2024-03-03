@@ -21,7 +21,7 @@ tags:
   - color field
   - transformation-based visual mapping
   - glyph-based chart
-  - multi-view layout
+  - multi-form layout
   - explicit temporal encoding
   - no temporal encoding
   - 2D chart

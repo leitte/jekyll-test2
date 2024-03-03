@@ -21,11 +21,10 @@ tags:
   - color field
   - transformation-based visual mapping
   - glyph-based chart
-  - multi-view layout
+  - multi-form layout
   - explicit temporal encoding
   - no temporal encoding
   - 2D chart
   - interactive system
-  - trend analysis
 ---
 Visual clutter is a common challenge when visualizing large rank time series data. WikiTopReader, a reader of Wikipedia page rank, lets users explore connections among top-viewed pages by connecting page-rank behaviors with page-link relations. Such a combination enhances the unweighted Wikipedia page-link network and focuses attention on the page of interest. A set of user evaluations shows that the system effectively represents evolving ranking patterns and page-wise correlation.

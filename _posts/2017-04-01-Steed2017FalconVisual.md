@@ -13,5 +13,11 @@ tags:
   - continuous process
   - event-based process
   - multi-variate attribute
+  - chart type
+  - direct visual mapping
+  - line chart
+  - multi-view layout
+  - explicit temporal encoding
   - 2D chart
+  - interactive system
 ---

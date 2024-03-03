@@ -19,7 +19,7 @@ tags:
   - bar chart
   - line chart
   - circular chart
-  - multi-view layout
+  - multi-form layout
   - explicit temporal encoding
   - no temporal encoding
   - 2D chart
