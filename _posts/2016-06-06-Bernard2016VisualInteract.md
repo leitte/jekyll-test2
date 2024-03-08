@@ -14,8 +14,8 @@ tags:
   - continuous process
   - event-based process
   - multi-variate attribute
-  - multiple time-series
-  - all time-series
+  - multiple time series
+  - all time series
   - chart type
   - direct visual mapping
   - bar chart

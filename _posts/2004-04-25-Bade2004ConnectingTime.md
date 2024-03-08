@@ -11,13 +11,14 @@ citation_count: 153
 categories:
 tags:
   - continuous process
-  - multiple time-series
+  - multi-variate attribute
+  - all time series
   - chart type
   - direct visual mapping
   - bar chart
   - line chart
   - color field
-  - transformation-based visual mapping
+  - transformation-based chart
   - glyph-based chart
   - multi-view layout
   - explicit temporal encoding

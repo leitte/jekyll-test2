@@ -13,7 +13,7 @@ categories:
 tags:
   - continuous process
   - multi-variate attribute
-  - all time-series
+  - all time series
   - visual representation
   - chart type
   - direct visual mapping
@@ -21,7 +21,7 @@ tags:
   - line chart
   - color field
   - calendar chart
-  - transformation-based visual mapping
+  - transformation-based chart
   - scatter plot
   - parallel coordinates
   - multi-form layout

@@ -14,6 +14,7 @@ categories:
 tags:
   - survey
   - continuous process
+  - numeric attribute
   - infrastructure
   - multi-scale abstraction
   - 2D chart

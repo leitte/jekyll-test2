@@ -13,6 +13,8 @@ categories:
   - infrastructure
 tags:
   - theory
+  - numeric attribute
+  - multi-variate attribute
   - infrastructure
   - multi-scale abstraction
   - 2D chart

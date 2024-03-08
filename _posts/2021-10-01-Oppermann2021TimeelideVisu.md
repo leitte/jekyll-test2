@@ -13,7 +13,8 @@ categories:
   - integration of AI
 tags:
   - continuous process
-  - single time-series
+  - numeric attribute
+  - single time series
   - infrastructure
   - data structure
   - chart type

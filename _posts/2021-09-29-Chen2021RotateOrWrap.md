@@ -11,6 +11,7 @@ citation_count: 3
 categories:
   - evaluation
 tags:
+  - numeric attribute
   - chart type
   - direct visual mapping
   - line chart

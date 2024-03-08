@@ -12,7 +12,8 @@ categories:
   - infrastructure
 tags:
   - continuous process
-  - multiple time-series
+  - multi-variate attribute
+  - all time series
   - infrastructure
   - data preprocessing
   - chart type

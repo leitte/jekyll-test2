@@ -13,10 +13,10 @@ categories:
 tags:
   - event-based process
   - numeric attribute
-  - all time-series
+  - all time series
   - chart type
-  - flow diagram
-  - Sankey diagram
+  - line chart
+  - circular chart
   - single-view layout
   - explicit temporal encoding
   - 2D chart

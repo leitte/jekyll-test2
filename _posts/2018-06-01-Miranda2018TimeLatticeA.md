@@ -12,7 +12,8 @@ categories:
   - infrastructure
 tags:
   - continuous process
-  - all time-series
+  - numeric attribute
+  - all time series
   - infrastructure
   - data structure
   - chart type

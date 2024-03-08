@@ -13,7 +13,7 @@ categories:
   - interaction
   - technical challenges
 tags:
-  - all time-series
+  - all time series
   - infrastructure
   - data structure
   - 2D chart

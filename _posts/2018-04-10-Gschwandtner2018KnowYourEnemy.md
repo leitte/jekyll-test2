@@ -12,6 +12,7 @@ categories:
   - technical challenges
 tags:
   - continuous process
+  - numeric attribute
   - chart type
   - direct visual mapping
   - bar chart

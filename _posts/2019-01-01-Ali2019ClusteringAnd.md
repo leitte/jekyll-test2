@@ -14,6 +14,9 @@ categories:
 tags:
   - survey
   - continuous process
+  - numeric attribute
+  - multi-variate attribute
+  - all time series
   - 2D chart
   - integration of AI
   - clustering

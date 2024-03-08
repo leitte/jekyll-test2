@@ -13,12 +13,12 @@ categories:
 tags:
   - continuous process
   - multi-variate attribute
-  - single time-series
-  - multiple time-series
+  - single time series
+  - all time series
   - chart type
   - direct visual mapping
   - line chart
-  - transformation-based visual mapping
+  - transformation-based chart
   - glyph-based chart
   - multi-form layout
   - explicit temporal encoding

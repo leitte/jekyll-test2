@@ -12,15 +12,16 @@ categories:
   - infrastructure
 tags:
   - continuous process
-  - single time-series
-  - all time-series
+  - numeric attribute
+  - single time series
+  - all time series
   - infrastructure
   - data preprocessing
   - chart type
   - direct visual mapping
   - bar chart
   - line chart
-  - transformation-based visual mapping
+  - transformation-based chart
   - glyph-based chart
   - multi-form layout
   - explicit temporal encoding

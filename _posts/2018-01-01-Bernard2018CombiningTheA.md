@@ -12,7 +12,8 @@ categories:
   - infrastructure
 tags:
   - continuous process
-  - all time-series
+  - multi-variate attribute
+  - all time series
   - infrastructure
   - chart type
   - direct visual mapping

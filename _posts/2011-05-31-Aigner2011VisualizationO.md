@@ -12,5 +12,7 @@ categories:
   - theory
 tags:
   - theory
+  - numeric attribute
+  - multi-variate attribute
   - 2D chart
 ---

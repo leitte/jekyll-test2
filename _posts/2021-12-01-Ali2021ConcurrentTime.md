@@ -14,11 +14,12 @@ categories:
   - integration of AI
 tags:
   - continuous process
+  - numeric attribute
   - infrastructure
   - chart type
   - direct visual mapping
   - line chart
-  - transformation-based visual mapping
+  - transformation-based chart
   - scatter plot
   - multi-form layout
   - explicit temporal encoding

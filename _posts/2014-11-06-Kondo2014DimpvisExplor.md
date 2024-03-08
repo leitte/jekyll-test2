@@ -12,6 +12,8 @@ categories:
   - interaction
 tags:
   - continuous process
+  - multi-variate attribute
+  - all time series
   - 2D chart
   - interaction
   - interactive system

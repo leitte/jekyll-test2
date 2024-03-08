@@ -14,7 +14,7 @@ categories:
 tags:
   - continuous process
   - numeric attribute
-  - all time-series
+  - all time series
   - infrastructure
   - data structure
   - chart type
@@ -27,6 +27,6 @@ tags:
   - interactive filtering
   - interactive querying
   - technical challenges
-  - large number of time-series
+  - large number of time series
 ---
 Time-series data–usually presented in the form of lines–plays an important role in many domains such as finance, meteorology, health, and urban informatics. Yet, little has been done to support interactive exploration of large-scale time-series data, which requires a clutter-free visual representation with low-latency interactions. In this paper, we contribute a novel line-segment-based KD-tree method to enable interactive analysis of many time series. Our method enables not only fast queries over time series in selected regions of interest but also a line splatting method for efficient computation of the density field and selection of representative lines. Further, we develop KD-Box, an interactive system that provides rich interactions, e.g., timebox, attribute filtering, and coordinated multiple views. We demonstrate the effectiveness of KD-Box in supporting efficient line query and density field computation through a quantitative comparison and show its usefulness for interactive visual analysis on several real-world datasets.

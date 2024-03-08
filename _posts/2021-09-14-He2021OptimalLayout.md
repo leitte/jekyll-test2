@@ -13,9 +13,8 @@ categories:
   - interaction
 tags:
   - continuous process
-  - numeric attribute
   - multi-variate attribute
-  - multiple time-series
+  - all time series
   - visual representation
   - chart type
   - stacked area chart

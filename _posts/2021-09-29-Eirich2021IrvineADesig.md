@@ -14,14 +14,14 @@ categories:
 tags:
   - continuous process
   - numeric attribute
-  - all time-series
+  - all time series
   - infrastructure
   - provenance
   - chart type
   - direct visual mapping
   - line chart
   - color field
-  - transformation-based visual mapping
+  - transformation-based chart
   - scatter plot
   - glyph-based chart
   - spectrum

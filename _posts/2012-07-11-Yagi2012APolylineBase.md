@@ -12,7 +12,8 @@ categories:
   - visual representation
 tags:
   - continuous process
-  - all time-series
+  - multi-variate attribute
+  - all time series
   - visual representation
   - chart type
   - direct visual mapping

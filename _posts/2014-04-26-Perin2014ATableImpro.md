@@ -12,9 +12,9 @@ categories:
   - interaction
 tags:
   - continuous process
-  - rank attribute
+  - rank-based attribute
   - multi-variate attribute
-  - all time-series
+  - all time series
   - chart type
   - direct visual mapping
   - line chart

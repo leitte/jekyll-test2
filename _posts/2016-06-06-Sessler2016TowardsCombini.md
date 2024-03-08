@@ -12,7 +12,8 @@ categories:
   - interaction
 tags:
   - continuous process
-  - multiple time-series
+  - multi-variate attribute
+  - multiple time series
   - chart type
   - direct visual mapping
   - bar chart

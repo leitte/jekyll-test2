@@ -16,6 +16,7 @@ tags:
   - continuous process
   - numeric attribute
   - multi-variate attribute
+  - multiple time series
   - infrastructure
   - similarity measure
   - chart type

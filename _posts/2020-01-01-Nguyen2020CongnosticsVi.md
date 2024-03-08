@@ -12,14 +12,14 @@ categories:
   - visual representation
 tags:
   - continuous process
-  - multiple time-series
-  - all time-series
+  - multiple time series
+  - all time series
   - visual representation
   - chart type
   - direct visual mapping
   - line chart
   - circular chart
-  - transformation-based visual mapping
+  - transformation-based chart
   - scatter plot
   - multi-form layout
   - explicit temporal encoding

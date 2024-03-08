@@ -13,6 +13,7 @@ categories:
 tags:
   - continuous process
   - multi-variate attribute
+  - all time series
   - 2D chart
   - evaluation
   - evaluation of visual perception

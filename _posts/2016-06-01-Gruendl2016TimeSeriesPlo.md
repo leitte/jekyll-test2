@@ -12,13 +12,14 @@ categories:
   - visual representation
 tags:
   - continuous process
-  - all time-series
+  - multi-variate attribute
+  - all time series
   - visual representation
   - chart type
   - direct visual mapping
   - bar chart
   - line chart
-  - transformation-based visual mapping
+  - transformation-based chart
   - scatter plot
   - parallel coordinates
   - multi-form layout

@@ -13,7 +13,7 @@ categories:
 tags:
   - continuous process
   - numeric attribute
-  - all time-series
+  - all time series
   - chart type
   - direct visual mapping
   - line chart

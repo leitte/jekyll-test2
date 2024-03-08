@@ -12,10 +12,11 @@ categories:
   - visual representation
 tags:
   - continuous process
-  - all time-series
+  - multi-variate attribute
+  - all time series
   - visual representation
   - chart type
-  - transformation-based visual mapping
+  - transformation-based chart
   - scatter plot
   - glyph-based chart
   - single-view layout

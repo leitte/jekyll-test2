@@ -14,8 +14,8 @@ categories:
 tags:
   - continuous process
   - multi-variate attribute
-  - multiple time-series
-  - all time-series
+  - multiple time series
+  - all time series
   - infrastructure
   - data preprocessing
   - visual representation

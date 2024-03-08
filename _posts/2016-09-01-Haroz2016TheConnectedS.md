@@ -13,10 +13,10 @@ categories:
 tags:
   - continuous process
   - numeric attribute
-  - multiple time-series
+  - multiple time series
   - visual representation
   - chart type
-  - transformation-based visual mapping
+  - transformation-based chart
   - scatter plot
   - single-view layout
   - implicit temporal encoding

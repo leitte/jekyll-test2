@@ -12,6 +12,7 @@ categories:
   - evaluation
   - interaction
 tags:
+  - numeric attribute
   - single-view layout
   - explicit temporal encoding
   - 2D chart

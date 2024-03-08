@@ -13,11 +13,11 @@ categories:
 tags:
   - continuous process
   - numeric attribute
-  - single time-series
-  - all time-series
+  - single time series
+  - all time series
   - visual representation
   - chart type
-  - transformation-based visual mapping
+  - transformation-based chart
   - scatter plot
   - single-view layout
   - no temporal encoding

@@ -13,5 +13,7 @@ categories:
 tags:
   - survey
   - continuous process
+  - numeric attribute
+  - multi-variate attribute
   - 2D chart
 ---

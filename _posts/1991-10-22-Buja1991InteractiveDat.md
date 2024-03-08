@@ -15,11 +15,9 @@ tags:
   - theory
   - continuous process
   - numeric attribute
-  - rank attribute
+  - rank-based attribute
   - multi-variate attribute
-  - single time-series
-  - multiple time-series
-  - all time-series
+  - multiple time series
   - chart type
   - line chart
   - scatter plot

@@ -12,14 +12,14 @@ categories:
   - visual representation
 tags:
   - continuous process
-  - rank attribute
-  - all time-series
+  - rank-based attribute
+  - all time series
   - visual representation
   - chart type
   - direct visual mapping
   - line chart
   - color field
-  - transformation-based visual mapping
+  - transformation-based chart
   - glyph-based chart
   - multi-form layout
   - explicit temporal encoding

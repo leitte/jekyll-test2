@@ -13,7 +13,7 @@ categories:
 tags:
   - continuous process
   - multi-variate attribute
-  - single time-series
+  - all time series
   - single-view layout
   - no temporal encoding
   - 2D chart

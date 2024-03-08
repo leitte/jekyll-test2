@@ -14,7 +14,7 @@ categories:
 tags:
   - continuous process
   - numeric attribute
-  - all time-series
+  - all time series
   - visual representation
   - chart type
   - flow diagram

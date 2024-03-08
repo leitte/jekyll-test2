@@ -13,10 +13,10 @@ categories:
 tags:
   - continuous process
   - multi-variate attribute
-  - all time-series
+  - all time series
   - visual representation
   - chart type
-  - transformation-based visual mapping
+  - transformation-based chart
   - glyph-based chart
   - multi-form layout
   - explicit temporal encoding

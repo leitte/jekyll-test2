@@ -16,7 +16,7 @@ tags:
   - theory
   - numeric attribute
   - multi-variate attribute
-  - all time-series
+  - all time series
   - infrastructure
   - provenance
   - 2D chart

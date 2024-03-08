@@ -14,10 +14,10 @@ categories:
 tags:
   - continuous process
   - multi-variate attribute
-  - all time-series
+  - all time series
   - visual representation
   - chart type
-  - transformation-based visual mapping
+  - transformation-based chart
   - scatter plot
   - single-view layout
   - no temporal encoding

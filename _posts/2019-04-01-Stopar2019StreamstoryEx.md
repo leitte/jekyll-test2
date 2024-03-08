@@ -13,7 +13,8 @@ categories:
   - integration of AI
 tags:
   - continuous process
-  - all time-series
+  - multi-variate attribute
+  - all time series
   - infrastructure
   - multi-scale abstraction
   - chart type

@@ -14,9 +14,9 @@ categories:
   - integration of AI
 tags:
   - continuous process
-  - single time-series
+  - single time series
   - infrastructure
-  - time-series representation
+  - time series representation
   - chart type
   - direct visual mapping
   - line chart

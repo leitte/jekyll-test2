@@ -13,8 +13,8 @@ categories:
 tags:
   - continuous process
   - numeric attribute
-  - multiple time-series
-  - all time-series
+  - multiple time series
+  - all time series
   - visual representation
   - chart type
   - flow diagram

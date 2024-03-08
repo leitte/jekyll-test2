@@ -12,6 +12,7 @@ categories:
   - evaluation
 tags:
   - continuous process
+  - numeric attribute
   - 2D chart
   - evaluation
   - evaluation of visual perception

@@ -11,12 +11,12 @@ citation_count: 21
 categories:
 tags:
   - continuous process
-  - all time-series
+  - all time series
   - chart type
   - direct visual mapping
   - line chart
   - color field
-  - transformation-based visual mapping
+  - transformation-based chart
   - scatter plot
   - glyph-based chart
   - multi-form layout

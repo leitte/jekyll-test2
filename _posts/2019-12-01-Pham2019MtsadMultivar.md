@@ -13,7 +13,7 @@ categories:
 tags:
   - continuous process
   - multi-variate attribute
-  - multiple time-series
+  - all time series
   - chart type
   - direct visual mapping
   - bar chart

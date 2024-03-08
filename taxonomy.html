@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<h1>Hello wrold</h1>
+
+{%- if include.keys -%}
+  {%- assign keys = include.keys -%}
+{%- endif -%}
+
+{% assign type = 'tag' %}
+{% assign field = 'tags' %}
+
+<div class="common-list"> 
+    <ul>
+      {% for entry in site.data.taxonomy %}
+      <li> <button class="button slim">{{ entry.label }}</button>
+          {% if entry.children %}
+          <ul class="ul-tag">
+              {% for subcategory in entry.children %}
+              {% assign key = subcategory.label %}
+              <li>{{ key }}
+                  {% if subcategory.children %}
+                  <ul class="ul-tag">
+                      {% for subsubcategory in subcategory.children %}
+                      {% assign key = subsubcategory.label %}
+                      <li>{{ key }}</li> 
+                      {% endfor %}
+                  </ul>
+                  {% endif %}
+              </li> 
+              {% endfor %}
+          </ul>
+          {% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>

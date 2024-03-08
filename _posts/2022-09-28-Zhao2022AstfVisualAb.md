@@ -15,13 +15,13 @@ categories:
 tags:
   - continuous process
   - numeric attribute
-  - all time-series
+  - all time series
   - infrastructure
-  - time-series representation
+  - time series representation
   - visual representation
   - chart type
   - direct visual mapping
-  - transformation-based visual mapping
+  - transformation-based chart
   - glyph-based chart
   - single-view layout
   - explicit temporal encoding

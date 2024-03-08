@@ -11,8 +11,9 @@ citation_count: 257
 categories:
   - infrastructure
 tags:
-  - single time-series
-  - all time-series
+  - numeric attribute
+  - single time series
+  - all time series
   - infrastructure
   - 2D chart
 ---

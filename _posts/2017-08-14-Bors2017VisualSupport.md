@@ -12,7 +12,8 @@ categories:
   - technical challenges
 tags:
   - continuous process
-  - single time-series
+  - numeric attribute
+  - single time series
   - chart type
   - direct visual mapping
   - line chart

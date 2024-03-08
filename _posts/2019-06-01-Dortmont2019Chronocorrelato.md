@@ -13,12 +13,13 @@ categories:
 tags:
   - continuous process
   - event-based process
-  - multiple time-series
+  - numeric attribute
+  - multiple time series
   - chart type
   - direct visual mapping
   - bar chart
   - line chart
-  - transformation-based visual mapping
+  - transformation-based chart
   - glyph-based chart
   - multi-view layout
   - explicit temporal encoding

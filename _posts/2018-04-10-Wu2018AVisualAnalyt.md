@@ -12,7 +12,8 @@ categories:
   - integration of AI
 tags:
   - continuous process
-  - all time-series
+  - multi-variate attribute
+  - all time series
   - chart type
   - direct visual mapping
   - bar chart
@@ -20,7 +21,7 @@ tags:
   - circular chart
   - flow diagram
   - stream graph
-  - transformation-based visual mapping
+  - transformation-based chart
   - scatter plot
   - glyph-based chart
   - multi-form layout

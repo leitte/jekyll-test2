@@ -1,3 +1,31 @@
+- id: Data
+  label: data
+  children:
+    - id: ProcessType
+      label: process type
+      children:
+        - id: ContinuousProcess
+          label: continuous process
+        - id: EventBasedProcess
+          label: event-based process
+    - id: AttributeType
+      label: attribute type
+      children:
+        - id: NumericAttribute
+          label: numeric attribute
+        - id: RankBasedAttribute
+          label: rank-based attribute
+        - id: MultiVariateAttribute
+          label: multi-variate attribute
+    - id: Cardinality
+      label: cardinality
+      children:
+        - id: SingleTimeSeries
+          label: single time series
+        - id: MultipleTimeSeries
+          label: multiple time series
+        - id: AllTimeSeries
+          label: all time series 
 - id: Infrastructure
   label: infrastructure
   children:
@@ -41,10 +69,6 @@
           label: parallel coordinates
         - id: Spectrum
           label: spectrum
-        - id: MultiScaleRepresentation
-          label: multi-scale representation
-        - id: OtherChartType
-          label: other chart type
     - id: VisualLayout
       label: visual layout
       children:

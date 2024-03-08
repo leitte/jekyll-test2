@@ -13,7 +13,8 @@ categories:
 tags:
   - continuous process
   - event-based process
-  - all time-series
+  - multi-variate attribute
+  - all time series
   - visual representation
   - flow diagram
   - glyph-based chart

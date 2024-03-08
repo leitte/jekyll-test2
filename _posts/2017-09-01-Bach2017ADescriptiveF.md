@@ -14,6 +14,8 @@ categories:
 tags:
   - theory
   - continuous process
+  - multi-variate attribute
+  - all time series
   - infrastructure
   - multi-scale abstraction
   - 2D chart

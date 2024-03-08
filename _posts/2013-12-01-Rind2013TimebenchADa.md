@@ -13,6 +13,8 @@ categories:
 tags:
   - continuous process
   - event-based process
+  - numeric attribute
+  - multi-variate attribute
   - infrastructure
   - data structure
   - 2D chart

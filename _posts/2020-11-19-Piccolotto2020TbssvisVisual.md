@@ -12,13 +12,14 @@ categories:
   - integration of AI
 tags:
   - continuous process
-  - all time-series
+  - numeric attribute
+  - all time series
   - chart type
   - direct visual mapping
   - bar chart
   - line chart
   - color field
-  - transformation-based visual mapping
+  - transformation-based chart
   - scatter plot
   - parallel coordinates
   - multi-form layout

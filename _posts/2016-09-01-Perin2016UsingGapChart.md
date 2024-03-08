@@ -12,8 +12,8 @@ categories:
   - visual representation
 tags:
   - continuous process
-  - rank attribute
-  - all time-series
+  - rank-based attribute
+  - all time series
   - visual representation
   - chart type
   - flow diagram

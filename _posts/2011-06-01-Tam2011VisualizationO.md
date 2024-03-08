@@ -15,13 +15,13 @@ categories:
 tags:
   - continuous process
   - multi-variate attribute
-  - multiple time-series
-  - all time-series
+  - multiple time series
+  - all time series
   - infrastructure
-  - time-series representation
+  - time series representation
   - visual representation
   - chart type
-  - transformation-based visual mapping
+  - transformation-based chart
   - parallel coordinates
   - multi-form layout
   - no temporal encoding
