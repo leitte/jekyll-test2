@@ -13,7 +13,8 @@ categories:
 tags:
   - continuous process
   - event-based process
-  - all time-series
+  - numeric attribute
+  - all time series
   - chart type
   - flow diagram
   - stream graph

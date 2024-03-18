@@ -12,6 +12,7 @@ categories:
   - technical challenges
 tags:
   - continuous process
+  - numeric attribute
   - 2D chart
   - technical challenges
 ---

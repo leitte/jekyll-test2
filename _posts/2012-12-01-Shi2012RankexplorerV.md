@@ -13,14 +13,14 @@ categories:
 tags:
   - continuous process
   - event-based process
-  - rank attribute
-  - multiple time-series
-  - all time-series
+  - rank-based attribute
+  - multiple time series
+  - all time series
   - visual representation
   - chart type
   - flow diagram
   - stream graph
-  - transformation-based visual mapping
+  - transformation-based chart
   - glyph-based chart
   - single-view layout
   - explicit temporal encoding

@@ -15,6 +15,7 @@ tags:
   - continuous process
   - numeric attribute
   - infrastructure
+  - time series representation
   - multi-scale abstraction
   - 2D chart
   - evaluation

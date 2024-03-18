@@ -9,14 +9,19 @@ doi: 10.1111/j.1467-8659.2011.01919.x
 date: 2011-06-01
 citation_count: 33
 categories:
+  - infrastructure
   - integration of AI
 tags:
   - continuous process
-  - all time-series
+  - numeric attribute
+  - all time series
+  - infrastructure
+  - time series representation
+  - pattern and motif description
   - chart type
   - direct visual mapping
   - line chart
-  - transformation-based visual mapping
+  - transformation-based chart
   - scatter plot
   - glyph-based chart
   - multi-form layout

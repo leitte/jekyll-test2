@@ -15,5 +15,6 @@ tags:
   - single time series
   - all time series
   - infrastructure
+  - time series representation
   - 2D chart
 ---

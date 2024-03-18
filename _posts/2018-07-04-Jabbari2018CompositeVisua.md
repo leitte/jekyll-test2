@@ -10,8 +10,10 @@ date: 2018-07-04
 citation_count: 5
 categories:
   - survey
+  - theory
 tags:
   - survey
+  - theory
   - continuous process
   - multi-variate attribute
   - single time series

@@ -9,11 +9,15 @@ doi: 10.1109/VAST.2016.7883519
 date: 2016-10-01
 citation_count: 34
 categories:
+  - infrastructure
   - interaction
 tags:
   - continuous process
   - multiple time series
   - all time series
+  - infrastructure
+  - time series representation
+  - pattern and motif description
   - chart type
   - direct visual mapping
   - line chart

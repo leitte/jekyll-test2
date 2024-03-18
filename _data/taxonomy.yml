@@ -30,13 +30,16 @@
   label: infrastructure
   children:
     - id: TimeSeriesRepresentation
-      label: time-series representation
+      label: time series representation
+      children:
+        - id: MultiScaleAbstraction
+          label: multi-scale abstraction
+        - id: PatternMotifDescription
+          label: pattern and motif description
     - id: SimilarityMeasure
       label: similarity measure
     - id: DataStructure
       label: data structure
-    - id: MultiScaleAbstraction
-      label: multi-scale abstraction
     - id: DatePreprocessing
       label: data preprocessing
     - id: Provenance

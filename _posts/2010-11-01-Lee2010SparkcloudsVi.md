@@ -12,7 +12,7 @@ categories:
   - visual representation
 tags:
   - continuous process
-  - all time-series
+  - all time series
   - visual representation
   - chart type
   - direct visual mapping

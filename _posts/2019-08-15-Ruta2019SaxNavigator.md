@@ -9,11 +9,15 @@ doi: 10.1109/VISUAL.2019.8933618
 date: 2019-08-15
 citation_count: 12
 categories:
+  - infrastructure
   - integration of AI
 tags:
   - continuous process
   - numeric attribute
   - all time series
+  - infrastructure
+  - time series representation
+  - pattern and motif description
   - chart type
   - direct visual mapping
   - line chart

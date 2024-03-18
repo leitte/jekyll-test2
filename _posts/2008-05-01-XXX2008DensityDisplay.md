@@ -12,7 +12,8 @@ categories:
   - technical challenges
 tags:
   - continuous process
-  - multiple time-series
+  - numeric attribute
+  - multiple time series
   - chart type
   - direct visual mapping
   - color field

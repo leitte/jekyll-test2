@@ -11,7 +11,7 @@ citation_count: 9
 categories:
 tags:
   - continuous process
-  - multiple time-series
+  - multiple time series
   - chart type
   - direct visual mapping
   - line chart

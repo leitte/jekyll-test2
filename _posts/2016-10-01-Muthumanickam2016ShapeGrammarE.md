@@ -17,6 +17,7 @@ tags:
   - single time series
   - infrastructure
   - time series representation
+  - pattern and motif description
   - chart type
   - direct visual mapping
   - line chart

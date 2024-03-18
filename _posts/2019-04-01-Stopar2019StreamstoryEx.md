@@ -16,6 +16,7 @@ tags:
   - multi-variate attribute
   - all time series
   - infrastructure
+  - time series representation
   - multi-scale abstraction
   - chart type
   - direct visual mapping

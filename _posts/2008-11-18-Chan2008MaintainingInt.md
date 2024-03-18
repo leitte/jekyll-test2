@@ -14,11 +14,13 @@ categories:
   - technical challenges
 tags:
   - continuous process
-  - multiple time-series
-  - all time-series
+  - numeric attribute
+  - multiple time series
+  - all time series
   - infrastructure
+  - time series representation
   - multi-scale abstraction
-  - data bases for time-series
+  - data bases for time series
   - chart type
   - direct visual mapping
   - line chart

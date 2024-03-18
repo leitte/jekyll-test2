@@ -12,7 +12,8 @@ categories:
   - interaction
 tags:
   - continuous process
-  - all time-series
+  - numeric attribute
+  - all time series
   - chart type
   - direct visual mapping
   - line chart

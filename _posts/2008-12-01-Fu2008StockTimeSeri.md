@@ -13,9 +13,9 @@ categories:
 tags:
   - continuous process
   - numeric attribute
-  - single time-series
+  - single time series
   - infrastructure
-  - time-series representation
+  - time series representation
   - multi-scale abstraction
   - chart type
   - direct visual mapping

@@ -13,7 +13,8 @@ categories:
 tags:
   - continuous process
   - event-based process
-  - all time-series
+  - numeric attribute
+  - all time series
   - single-view layout
   - explicit temporal encoding
   - 2D chart

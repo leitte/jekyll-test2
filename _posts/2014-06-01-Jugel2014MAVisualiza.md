@@ -11,8 +11,9 @@ citation_count: 89
 categories:
   - infrastructure
 tags:
-  - single time-series
+  - single time series
   - infrastructure
+  - time series representation
   - multi-scale abstraction
   - chart type
   - direct visual mapping

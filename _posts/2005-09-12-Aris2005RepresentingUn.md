@@ -15,7 +15,7 @@ tags:
   - theory
   - continuous process
   - infrastructure
-  - time-series representation
+  - time series representation
   - data preprocessing
   - 2D chart
 ---

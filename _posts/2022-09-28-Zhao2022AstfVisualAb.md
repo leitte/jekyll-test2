@@ -18,6 +18,7 @@ tags:
   - all time series
   - infrastructure
   - time series representation
+  - pattern and motif description
   - visual representation
   - chart type
   - direct visual mapping

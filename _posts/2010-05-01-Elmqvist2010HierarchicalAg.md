@@ -9,13 +9,16 @@ doi: 10.1109/TVCG.2009.84
 date: 2010-05-01
 citation_count: 409
 categories:
+  - survey
   - theory
   - infrastructure
 tags:
+  - survey
   - theory
   - numeric attribute
   - multi-variate attribute
   - infrastructure
+  - time series representation
   - multi-scale abstraction
   - 2D chart
 ---

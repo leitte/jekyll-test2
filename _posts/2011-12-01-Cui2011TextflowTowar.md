@@ -13,7 +13,7 @@ categories:
 tags:
   - continuous process
   - event-based process
-  - all time-series
+  - all time series
   - visual representation
   - chart type
   - single-view layout

@@ -12,6 +12,7 @@ categories:
   - infrastructure
   - interaction
 tags:
+  - numeric attribute
   - infrastructure
   - similarity measure
   - chart type

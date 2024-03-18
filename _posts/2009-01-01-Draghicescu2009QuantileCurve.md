@@ -14,7 +14,7 @@ categories:
 tags:
   - continuous process
   - numeric attribute
-  - all time-series
+  - all time series
   - infrastructure
   - data structure
   - visual representation

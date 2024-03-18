@@ -9,15 +9,19 @@ doi: 10.1016/j.knosys.2012.12.011
 date: 2013-03-01
 citation_count: 15
 categories:
+  - infrastructure
   - visual representation
 tags:
   - continuous process
   - numeric attribute
-  - all time-series
+  - all time series
+  - infrastructure
+  - time series representation
+  - pattern and motif description
   - visual representation
   - chart type
   - line chart
-  - transformation-based visual mapping
+  - transformation-based chart
   - single-view layout
   - no temporal encoding
   - 2D chart

@@ -13,14 +13,14 @@ categories:
 tags:
   - continuous process
   - numeric attribute
-  - single time-series
-  - all time-series
+  - single time series
+  - all time series
   - visual representation
   - chart type
   - direct visual mapping
   - bar chart
   - line chart
-  - transformation-based visual mapping
+  - transformation-based chart
   - parallel coordinates
   - multi-view layout
   - explicit temporal encoding

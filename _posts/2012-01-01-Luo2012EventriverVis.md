@@ -13,9 +13,10 @@ categories:
 tags:
   - continuous process
   - event-based process
-  - all time-series
+  - numeric attribute
+  - all time series
   - chart type
-  - transformation-based visual mapping
+  - transformation-based chart
   - glyph-based chart
   - single-view layout
   - explicit temporal encoding

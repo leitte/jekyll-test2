@@ -12,9 +12,12 @@ categories:
   - infrastructure
 tags:
   - continuous process
-  - single time-series
+  - numeric attribute
+  - single time series
   - infrastructure
-  - data bases for time-series
+  - time series representation
+  - pattern and motif description
+  - data bases for time series
   - chart type
   - direct visual mapping
   - color field

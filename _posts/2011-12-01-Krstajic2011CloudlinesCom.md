@@ -13,7 +13,7 @@ categories:
 tags:
   - continuous process
   - numeric attribute
-  - all time-series
+  - all time series
   - visual representation
   - multi-view layout
   - explicit temporal encoding

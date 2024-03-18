@@ -14,6 +14,7 @@ categories:
 tags:
   - survey
   - continuous process
+  - numeric attribute
   - 2D chart
   - integration of AI
   - clustering

@@ -14,8 +14,9 @@ categories:
 tags:
   - survey
   - continuous process
+  - numeric attribute
   - infrastructure
-  - time-series representation
+  - time series representation
   - similarity measure
   - 2D chart
 ---

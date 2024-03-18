@@ -13,10 +13,12 @@ categories:
   - technical challenges
 tags:
   - continuous process
-  - single time-series
-  - multiple time-series
-  - all time-series
+  - numeric attribute
+  - single time series
+  - multiple time series
+  - all time series
   - infrastructure
+  - time series representation
   - multi-scale abstraction
   - chart type
   - direct visual mapping
